@@ -1,0 +1,73 @@
+event,game_year,athlete_full_name,country_name,seconds
+100m Men,1896,Thomas BURKE,United States of America,120.0
+100m Men,1900,Francis JARVIS,United States of America,110.0
+100m Men,1904,Archie HAHN,United States of America,110.0
+100m Men,1908,Reggie Walker,South Africa,108.0
+100m Men,1912,Ralph CRAIG,United States of America,108.0
+100m Men,1920,Charles PADDOCK,United States of America,108.0
+100m Men,1924,Harold ABRAHAMS,Great Britain,106.0
+100m Men,1928,Percy WILLIAMS,Canada,108.0
+100m Men,1932,Eddie TOLAN,United States of America,103.0
+100m Men,1948,Harrison DILLARD,United States of America,103.0
+100m Men,1952,Lindy REMIGINO,United States of America,104.0
+100m Men,1956,Bobby MORROW,United States of America,105.0
+100m Men,1960,Armin HARY,Germany,102.0
+100m Men,1964,Robert HAYES,United States of America,100.0
+100m Men,1968,James Ray HINES,United States of America,99.0
+100m Men,1972,Valeriy BORZOV,Soviet Union,101.4
+100m Men,1976,Hasely CRAWFORD,Trinidad and Tobago,100.6
+100m Men,1980,Allan WELLS,Great Britain,102.5
+100m Men,1984,Carl LEWIS,United States of America,99.9
+100m Men,1988,Carl LEWIS,United States of America,99.2
+100m Men,1992,Linford CHRISTIE,Great Britain,99.6
+100m Men,1996,Donovan BAILEY,Canada,98.4
+100m Men,2000,Maurice GREENE,United States of America,98.7
+100m Men,2004,Justin GATLIN,United States of America,98.5
+100m Men,2008,Usain BOLT,Jamaica,96.9
+100m Men,2012,Usain BOLT,Jamaica,96.3
+100m Men,2016,Usain BOLT,Jamaica,98.1
+100m Women,1928,Elizabeth ROBINSON,United States of America,122.0
+100m Women,1932,Stanislawa WALASIEWICZ,Poland,119.0
+100m Women,1948,Fanny BLANKERS-KOEN,Netherlands,119.0
+100m Women,1952,Marjorie JACKSON,Australia,115.0
+100m Women,1956,Betty CUTHBERT,Australia,115.0
+100m Women,1964,Wyomia TYUS,United States of America,114.0
+100m Women,1968,Wyomia TYUS,United States of America,110.0
+100m Women,1972,Renate STECHER,German Democratic Republic (Germany),110.7
+100m Women,1976,Annegret Richter,Federal Republic of Germany,110.8
+100m Women,1980,Lyudmila Kondratyeva,Soviet Union,110.6
+100m Women,1984,Evelyn ASHFORD,United States of America,109.7
+100m Women,1992,Yolanda Gail DEVERS-ROBERTS,United States of America,108.2
+100m Women,1996,Yolanda Gail DEVERS-ROBERTS,United States of America,109.4
+100m Women,2004,Yuliya NESTSIARENKA,Belarus,109.3
+100m Women,2008,Shelly-Ann FRASER-PRYCE,Jamaica,107.8
+100m Women,2012,Shelly-Ann FRASER-PRYCE,Jamaica,107.5
+100m Women,2016,Elaine THOMPSON,Jamaica,107.1
+Marathon Men,1896,Spyridon LOUIS,Greece,107300.0
+Marathon Men,1900,Michel THEATO,Luxembourg,107850.0
+Marathon Men,1904,Tom Hicks,United States of America,125330.0
+Marathon Men,1908,John Joseph HAYES,United States of America,105184.0
+Marathon Men,1912,Ken McArthur,South Africa,94148.0
+Marathon Men,1920,Hannes KOLEHMAINEN,Finland,91558.0
+Marathon Men,1924,Albin Oskar STENROOS,Finland,96826.0
+Marathon Men,1928,Boughera El Ouafi,France,91770.0
+Marathon Men,1932,Juan Carlos ZABALA,Argentina,90960.0
+Marathon Men,1936,Kitei SON,Japan,89592.0
+Marathon Men,1948,Delfo CABRERA,Argentina,92916.0
+Marathon Men,1952,Emil ZATOPEK,Czechoslovakia,85832.0
+Marathon Men,1956,Alain MIMOUN,France,87000.0
+Marathon Men,1960,Abebe BIKILA,Ethiopia,81162.0
+Marathon Men,1964,Abebe BIKILA,Ethiopia,79312.0
+Marathon Men,1968,Mamo WOLDE,Ethiopia,84264.0
+Marathon Men,1972,Frank Charles SHORTER,United States of America,79398.0
+Marathon Men,1976,Waldemar CIERPINSKI,German Democratic Republic (Germany),77950.0
+Marathon Men,1980,Waldemar CIERPINSKI,German Democratic Republic (Germany),78630.0
+Marathon Men,1984,Carlos LOPES,Portugal,77610.0
+Marathon Men,1988,Gelindo BORDIN,Italy,78320.0
+Marathon Men,1992,Young-Cho HWANG,Republic of Korea,80030.0
+Marathon Men,1996,Josia THUGWANE,South Africa,79560.0
+Marathon Men,2000,Gezahegne ABERA,Ethiopia,78110.0
+Marathon Men,2004,Stefano BALDINI,Italy,78550.0
+Marathon Men,2008,Samuel WANJIRU,Kenya,75920.0
+Marathon Men,2012,Stephen KIPROTICH,Uganda,76810.0
+Marathon Men,2016,Eliud KIPCHOGE,Kenya,77240.0

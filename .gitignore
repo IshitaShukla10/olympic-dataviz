@@ -1,0 +1,9 @@
+# Raw source data is large (~45MB) and publicly re-downloadable from Kaggle;
+# keep the repo lean and commit only the cleaned, chart-ready CSVs.
+data/raw/*.csv
+data/raw/*.pkl
+!data/raw/.gitkeep
+
+__pycache__/
+*.pyc
+.DS_Store

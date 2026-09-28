@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Are Olympic winners still getting faster?</title>
+<script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@2/plotly.min.js"></script>
+<style>
+  body { margin:0; font-family:-apple-system,Segoe UI,Roboto,sans-serif; background:#0b0e14; color:#e8ecf1; }
+  header { padding:20px 24px 4px; }
+  h1 { font-size:1.3rem; margin:0 0 4px; }
+  p.sub { margin:0; color:#9aa4b2; font-size:0.95rem; max-width:760px; }
+  #chart { width:100%; height:640px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Are Olympic winners still getting faster?</h1>
+  <p class="sub">Men's & women's 100m and men's marathon winning times, 1896-2016 (Athletics discipline, gold medallists only). Toggle between sprint and endurance events -- note the flattening curve since the 1990s.</p>
+</header>
+<div id="chart"></div>
+<script>
+const data = [{"x": [1896, 1900, 1904, 1908, 1912, 1920, 1924, 1928, 1932, 1948, 1952, 1956, 1960, 1964, 1968, 1972, 1976, 1980, 1984, 1988, 1992, 1996, 2000, 2004, 2008, 2012, 2016], "y": [120.0, 110.0, 110.0, 108.0, 108.0, 108.0, 106.0, 108.0, 103.0, 103.0, 104.0, 105.0, 102.0, 100.0, 99.0, 101.4, 100.6, 102.5, 99.9, 99.2, 99.6, 98.4, 98.7, 98.5, 96.9, 96.3, 98.1], "text": ["Thomas BURKE", "Francis JARVIS", "Archie HAHN", "Reggie Walker", "Ralph CRAIG", "Charles PADDOCK", "Harold ABRAHAMS", "Percy WILLIAMS", "Eddie TOLAN", "Harrison DILLARD", "Lindy REMIGINO", "Bobby MORROW", "Armin HARY", "Robert HAYES", "James Ray HINES", "Valeriy BORZOV", "Hasely CRAWFORD", "Allan WELLS", "Carl LEWIS", "Carl LEWIS", "Linford CHRISTIE", "Donovan BAILEY", "Maurice GREENE", "Justin GATLIN", "Usain BOLT", "Usain BOLT", "Usain BOLT"], "customdata": ["United States of America", "United States of America", "United States of America", "South Africa", "United States of America", "United States of America", "Great Britain", "Canada", "United States of America", "United States of America", "United States of America", "United States of America", "Germany", "United States of America", "United States of America", "Soviet Union", "Trinidad and Tobago", "Great Britain", "United States of America", "United States of America", "Great Britain", "Canada", "United States of America", "United States of America", "Jamaica", "Jamaica", "Jamaica"], "name": "100m Men", "mode": "lines+markers", "line": {"width": 3, "color": "#ff6b6b"}, "hovertemplate": "%{x}: %{text} (%{customdata})<br>%{y:.2f}s<extra>%{fullData.name}</extra>", "visible": true}, {"x": [1928, 1932, 1948, 1952, 1956, 1964, 1968, 1972, 1976, 1980, 1984, 1992, 1996, 2004, 2008, 2012, 2016], "y": [122.0, 119.0, 119.0, 115.0, 115.0, 114.0, 110.0, 110.7, 110.8, 110.6, 109.7, 108.2, 109.4, 109.3, 107.8, 107.5, 107.1], "text": ["Elizabeth ROBINSON", "Stanislawa WALASIEWICZ", "Fanny BLANKERS-KOEN", "Marjorie JACKSON", "Betty CUTHBERT", "Wyomia TYUS", "Wyomia TYUS", "Renate STECHER", "Annegret Richter", "Lyudmila Kondratyeva", "Evelyn ASHFORD", "Yolanda Gail DEVERS-ROBERTS", "Yolanda Gail DEVERS-ROBERTS", "Yuliya NESTSIARENKA", "Shelly-Ann FRASER-PRYCE", "Shelly-Ann FRASER-PRYCE", "Elaine THOMPSON"], "customdata": ["United States of America", "Poland", "Netherlands", "Australia", "Australia", "United States of America", "United States of America", "German Democratic Republic (Germany)", "Federal Republic of Germany", "Soviet Union", "United States of America", "United States of America", "United States of America", "Belarus", "Jamaica", "Jamaica", "Jamaica"], "name": "100m Women", "mode": "lines+markers", "line": {"width": 3, "color": "#4dabf7"}, "hovertemplate": "%{x}: %{text} (%{customdata})<br>%{y:.2f}s<extra>%{fullData.name}</extra>", "visible": true}, {"x": [1896, 1900, 1904, 1908, 1912, 1920, 1924, 1928, 1932, 1936, 1948, 1952, 1956, 1960, 1964, 1968, 1972, 1976, 1980, 1984, 1988, 1992, 1996, 2000, 2004, 2008, 2012, 2016], "y": [107300.0, 107850.0, 125330.0, 105184.0, 94148.0, 91558.0, 96826.0, 91770.0, 90960.0, 89592.0, 92916.0, 85832.0, 87000.0, 81162.0, 79312.0, 84264.0, 79398.0, 77950.0, 78630.0, 77610.0, 78320.0, 80030.0, 79560.0, 78110.0, 78550.0, 75920.0, 76810.0, 77240.0], "text": ["Spyridon LOUIS", "Michel THEATO", "Tom Hicks", "John Joseph HAYES", "Ken McArthur", "Hannes KOLEHMAINEN", "Albin Oskar STENROOS", "Boughera El Ouafi", "Juan Carlos ZABALA", "Kitei SON", "Delfo CABRERA", "Emil ZATOPEK", "Alain MIMOUN", "Abebe BIKILA", "Abebe BIKILA", "Mamo WOLDE", "Frank Charles SHORTER", "Waldemar CIERPINSKI", "Waldemar CIERPINSKI", "Carlos LOPES", "Gelindo BORDIN", "Young-Cho HWANG", "Josia THUGWANE", "Gezahegne ABERA", "Stefano BALDINI", "Samuel WANJIRU", "Stephen KIPROTICH", "Eliud KIPCHOGE"], "customdata": ["Greece", "Luxembourg", "United States of America", "United States of America", "South Africa", "Finland", "Finland", "France", "Argentina", "Japan", "Argentina", "Czechoslovakia", "France", "Ethiopia", "Ethiopia", "Ethiopia", "United States of America", "German Democratic Republic (Germany)", "German Democratic Republic (Germany)", "Portugal", "Italy", "Republic of Korea", "South Africa", "Ethiopia", "Italy", "Kenya", "Uganda", "Kenya"], "name": "Marathon Men", "mode": "lines+markers", "line": {"width": 3, "color": "#ffd43b"}, "hovertemplate": "%{x}: %{text} (%{customdata})<br>%{y:.2f}s<extra>%{fullData.name}</extra>", "visible": false}];
+
+const sprintTraces = data.filter(d => d.name !== 'Marathon Men');
+const marathonTrace = data.find(d => d.name === 'Marathon Men');
+
+function render(showMarathon) {
+  const traces = showMarathon ? [marathonTrace] : sprintTraces;
+  Plotly.newPlot('chart', traces.map(t => ({...t, visible: true})), {
+    paper_bgcolor: '#0b0e14', plot_bgcolor: '#0b0e14',
+    font: { color: '#e8ecf1', size: 14 },
+    xaxis: { title: 'Olympic Games (year)', gridcolor: '#222' },
+    yaxis: { title: showMarathon ? 'Winning time (seconds, lower = faster)' : 'Winning time (seconds)', gridcolor: '#222' },
+    legend: { orientation: 'h', y: -0.15 },
+    margin: { t: 20 },
+    updatemenus: [{
+      buttons: [
+        { label: '100m Sprints', method: 'skip' },
+        { label: 'Marathon', method: 'skip' }
+      ],
+      direction: 'left', x: 0, y: 1.12, showactive: true
+    }]
+  }, {responsive: true});
+}
+render(false);
+
+document.getElementById('chart').addEventListener('plotly_relayout', () => {});
+// simple toggle buttons injected above the chart
+const toggle = document.createElement('div');
+toggle.style.padding = '0 24px 12px';
+toggle.innerHTML = `
+  <button id="btn-sprint" style="margin-right:8px;padding:6px 14px;border-radius:6px;border:1px solid #444;background:#1a1f29;color:#e8ecf1;cursor:pointer;">100m Sprints</button>
+  <button id="btn-marathon" style="padding:6px 14px;border-radius:6px;border:1px solid #444;background:#1a1f29;color:#e8ecf1;cursor:pointer;">Marathon</button>
+`;
+document.querySelector('header').after(toggle);
+document.getElementById('btn-sprint').onclick = () => render(false);
+document.getElementById('btn-marathon').onclick = () => render(true);
+
+</script>
+</body>
+</html>

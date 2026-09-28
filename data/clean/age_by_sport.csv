@@ -1,0 +1,2316 @@
+discipline,gender,age,country
+Cycling Road,Male,24.517453798767967,Belgium
+Cycling Road,Male,28.019164955509925,Italy
+Cycling Road,Male,29.87816563997262,Belgium
+Cycling Road,Female,32.068446269678304,Australia
+Cycling Road,Female,25.713894592744694,Great Britain
+Cycling Road,Female,27.581108829568787,United States
+Fencing,Male,27.835728952772072,Korea
+Fencing,Male,27.028062970568104,Tunisia
+Fencing,Male,37.021218343600275,Italy
+Fencing,Female,30.477754962354553,"Hong Kong, China"
+Fencing,Female,30.806297056810404,France
+Fencing,Female,21.83709787816564,Hungary
+Judo,Male,31.89322381930185,Kazakhstan
+Judo,Male,28.57221081451061,France
+Judo,Male,28.295687885010267,Japan
+Judo,Male,29.645448323066393,Spain
+Judo,Female,31.98631074606434,Japan
+Judo,Female,24.681724845995895,Mongolia
+Judo,Female,25.519507186858316,France
+Judo,Female,18.576317590691307,Sweden
+Swimming,Male,22.595482546201232,Germany
+Swimming,Male,24.240930869267626,Australia
+Swimming,Male,22.937713894592743,Korea
+Swimming,Female,23.89869952087611,Australia
+Swimming,Female,17.95482546201232,Canada
+Swimming,Female,27.37577002053388,United States
+Canoe Slalom,Female,30.140999315537304,Australia
+Canoe Slalom,Female,25.620807665982205,Poland
+Canoe Slalom,Female,28.89801505817933,Great Britain
+Cycling Mountain Bike,Female,32.473648186173854,France
+Cycling Mountain Bike,Female,25.867214236824093,United States
+Cycling Mountain Bike,Female,30.154688569472963,Sweden
+Fencing,Male,26.61738535249829,Japan
+Fencing,Male,35.73716632443532,France
+Fencing,Male,21.415468856947296,Egypt
+Fencing,Female,30.130047912388775,United States
+Fencing,Female,21.51129363449692,United States
+Fencing,Female,29.54688569472964,Canada
+Judo,Male,26.978781656399725,Japan
+Judo,Male,24.501026694045173,Brazil
+Judo,Male,31.84120465434634,Kazakhstan
+Judo,Male,28.39425051334702,Republic of Moldova
+Judo,Female,26.053388090349078,Uzbekistan
+Judo,Female,28.643394934976044,Kosovo
+Judo,Female,25.420944558521562,Brazil
+Judo,Female,29.05681040383299,France
+Shooting,Male,24.136892539356605,China
+Shooting,Male,23.345653661875428,Italy
+Shooting,Male,26.286105407255306,Italy
+Shooting,Female,19.227926078028748,Korea
+Shooting,Female,31.906913073237508,Korea
+Shooting,Female,22.45037645448323,India
+Skateboarding,Female,14.858316221765914,Japan
+Skateboarding,Female,15.561943874058864,Japan
+Skateboarding,Female,16.57494866529774,Brazil
+Swimming,Male,25.00205338809035,Italy
+Swimming,Male,29.593429158110883,Great Britain
+Swimming,Male,31.080082135523615,United States
+Swimming,Male,22.209445585215605,France
+Swimming,Male,19.000684462696782,Japan
+Swimming,Male,22.765229295003422,United States
+Swimming,Female,21.650924024640656,United States
+Swimming,Female,21.505817932922657,United States
+Swimming,Female,26.286105407255306,China
+Canoe Slalom,Male,24.383299110198493,France
+Canoe Slalom,Male,32.04106776180698,Great Britain
+Canoe Slalom,Male,36.747433264887064,Slovakia
+Cycling Mountain Bike,Male,25.00752908966461,Great Britain
+Cycling Mountain Bike,Male,29.932922655715263,France
+Cycling Mountain Bike,Male,28.380561259411362,South Africa
+Equestrian,Male,42.0041067761807,Germany
+Equestrian,Male,42.691307323750856,Australia
+Equestrian,Female,34.91854893908282,Great Britain
+Fencing,Male,27.143052703627653,"Hong Kong, China"
+Fencing,Male,22.86652977412731,Italy
+Fencing,Male,24.813141683778234,United States
+Fencing,Female,28.48186173853525,France
+Fencing,Female,29.3305954825462,France
+Fencing,Female,33.908281998631075,Ukraine
+Judo,Male,27.014373716632445,Azerbaijan
+Judo,Male,23.564681724845997,France
+Judo,Male,24.082135523613964,Republic of Moldova
+Judo,Male,32.93908281998631,Japan
+Judo,Female,28.758384668035593,Canada
+Judo,Female,21.61806981519507,Korea
+Judo,Female,25.809719370294317,Japan
+Judo,Female,26.072553045859,France
+Shooting,Male,19.65776865160849,China
+Shooting,Male,21.21286789869952,Sweden
+Shooting,Male,27.123887748117728,Croatia
+Shooting,Female,16.865160848733744,Korea
+Shooting,Female,17.911019849418206,China
+Shooting,Female,21.754962354551676,Switzerland
+Skateboarding,Male,25.56605065023956,Japan
+Skateboarding,Male,23.44147843942505,United States
+Skateboarding,Male,29.67008898015058,United States
+Swimming,Male,23.509924709103355,Italy
+Swimming,Male,28.95277207392197,China
+Swimming,Male,29.084188911704313,United States
+Swimming,Male,19.876796714579054,Romania
+Swimming,Male,21.623545516769337,Great Britain
+Swimming,Male,21.10335386721424,United States
+Swimming,Female,27.06365503080082,South Africa
+Swimming,Female,20.383299110198493,China
+Swimming,Female,23.94524298425736,Ireland
+Swimming,Female,20.331279945242983,Australia
+Swimming,Female,23.89869952087611,Australia
+Swimming,Female,26.751540041067763,"Hong Kong, China"
+Swimming,Female,17.95482546201232,Canada
+Swimming,Female,18.562628336755647,United States
+Swimming,Female,22.60369609856263,United States
+Judo,Male,30.798083504449007,Japan
+Judo,Male,24.66803559206023,Georgia
+Judo,Male,22.119096509240247,Korea
+Judo,Male,25.357973990417523,Tajikistan
+Judo,Female,27.561943874058862,Slovenia
+Judo,Female,28.44626967830253,Mexico
+Judo,Female,31.76728268309377,France
+Judo,Female,23.84120465434634,Kosovo
+Shooting,Male,28.125941136208077,Great Britain
+Shooting,Male,27.520876112251884,China
+Shooting,Male,41.620807665982205,Guatemala
+Swimming,Male,23.04996577686516,Ireland
+Swimming,Male,24.736481861738536,United States
+Swimming,Male,29.905544147843944,Italy
+Swimming,Female,23.055441478439427,Australia
+Swimming,Female,22.47501711156742,United States
+Swimming,Female,23.50718685831622,United States
+Artistic Gymnastics,Male,20.752908966461327,Japan
+Artistic Gymnastics,Male,24.410677618069816,China
+Artistic Gymnastics,Male,28.503764544832308,China
+Canoe Slalom,Female,30.140999315537304,Australia
+Canoe Slalom,Female,25.880903490759753,Germany
+Canoe Slalom,Female,20.514715947980836,United States
+Cycling BMX Freestyle,Male,29.347022587268995,Argentina
+Cycling BMX Freestyle,Male,23.055441478439427,Great Britain
+Cycling BMX Freestyle,Male,26.220396988364133,France
+Cycling BMX Freestyle,Female,18.78986995208761,China
+Cycling BMX Freestyle,Female,29.02943189596167,United States
+Cycling BMX Freestyle,Female,26.855578370978783,Australia
+Judo,Male,24.016427104722794,Georgia
+Judo,Male,23.926078028747433,Japan
+Judo,Male,23.110198494182068,France
+Judo,Male,27.98904859685147,Greece
+Judo,Female,29.661875427789184,Croatia
+Judo,Female,30.234086242299796,Germany
+Judo,Female,27.04722792607803,Austria
+Judo,Female,27.085557837097877,Belgium
+Shooting,Female,29.100616016427104,Guatemala
+Shooting,Female,31.567419575633128,Italy
+Shooting,Female,29.281314168377822,Australia
+Swimming,Male,19.991786447638603,China
+Swimming,Male,26.102669404517453,Australia
+Swimming,Male,19.876796714579054,Romania
+Swimming,Male,22.209445585215605,France
+Swimming,Male,25.574264202600958,Australia
+Swimming,Male,23.329226557152634,Netherlands
+Swimming,Male,22.209445585215605,France
+Swimming,Male,24.44626967830253,Hungary
+Swimming,Male,19.479808350444902,Canada
+Swimming,Female,30.95687885010267,Sweden
+Swimming,Female,21.650924024640656,United States
+Swimming,Female,26.751540041067763,"Hong Kong, China"
+Swimming,Female,27.37577002053388,United States
+Swimming,Female,24.10403832991102,France
+Swimming,Female,22.23134839151266,Germany
+Triathlon,Male,26.45037645448323,Great Britain
+Triathlon,Male,26.915811088295687,New Zealand
+Triathlon,Male,28.093086926762492,France
+Triathlon,Female,27.19233401779603,France
+Triathlon,Female,27.890485968514717,Switzerland
+Triathlon,Female,32.596851471594796,Great Britain
+Artistic Gymnastics,Female,27.38398357289528,United States
+Artistic Gymnastics,Female,25.234770704996578,Brazil
+Artistic Gymnastics,Female,21.399041752224505,United States
+Athletics,Male,29.010266940451746,Ecuador
+Athletics,Male,33.37166324435318,Brazil
+Athletics,Male,30.12183436002738,Spain
+Athletics,Female,28.451745379876797,China
+Athletics,Female,28.257357973990416,Spain
+Athletics,Female,26.458590006844627,Australia
+Canoe Slalom,Male,32.030116358658454,Italy
+Canoe Slalom,Male,19.926078028747433,France
+Canoe Slalom,Male,23.175906913073238,Spain
+Judo,Male,25.97946611909651,Azerbaijan
+Judo,Male,23.121149897330596,Georgia
+Judo,Male,32.57494866529774,Israel
+Judo,Male,24.32306639288159,Uzbekistan
+Judo,Female,25.697467488021903,Italy
+Judo,Female,24.32854209445585,Israel
+Judo,Female,26.272416153319643,China
+Judo,Female,25.089664613278575,Portugal
+Shooting,Male,27.304585900068446,China
+Shooting,Male,31.290896646132786,Ukraine
+Shooting,Male,28.98836413415469,India
+Swimming,Male,21.347022587268995,Hungary
+Swimming,Male,27.748117727583846,Greece
+Swimming,Male,24.005475701574266,Switzerland
+Swimming,Female,22.704996577686515,United States
+Swimming,Female,27.06365503080082,South Africa
+Swimming,Female,23.583846680355922,Netherlands
+Swimming,Female,17.95482546201232,Canada
+Swimming,Female,22.47501711156742,United States
+Swimming,Female,26.286105407255306,China
+Athletics,Male,27.88501026694045,Uganda
+Athletics,Male,23.422313483915126,Ethiopia
+Athletics,Male,27.277207392197127,United States
+Cycling BMX Racing,Male,33.46748802190281,France
+Cycling BMX Racing,Male,31.797399041752225,France
+Cycling BMX Racing,Male,29.453798767967147,France
+Cycling BMX Racing,Female,24.941820670773442,Australia
+Cycling BMX Racing,Female,26.072553045859,Netherlands
+Cycling BMX Racing,Female,23.260780287474333,Switzerland
+Judo,Male,35.318275154004105,France
+Judo,Male,23.915126625598905,Korea
+Judo,Male,27.066392881587955,Tajikistan
+Judo,Male,25.678302532511978,Uzbekistan
+Judo,Female,26.20123203285421,Brazil
+Judo,Female,26.119096509240247,Israel
+Judo,Female,24.566735112936346,Korea
+Judo,Female,24.83778234086242,France
+Shooting,Female,26.130047912388775,Switzerland
+Shooting,Female,30.9596167008898,United States
+Shooting,Female,20.38877481177276,China
+Swimming,Male,22.209445585215605,France
+Swimming,Male,27.238877481177276,Great Britain
+Swimming,Male,30.469541409993155,China
+Swimming,Male,30.220396988364133,Australia
+Swimming,Male,29.861738535249827,Great Britain
+Swimming,Male,33.719370294318956,France
+Swimming,Female,23.055441478439427,Australia
+Swimming,Female,22.47501711156742,United States
+Swimming,Female,28.536618754277892,Canada
+Tennis,Female,23.170431211498972,Poland
+Trampoline Gymnastics,Male,23.09924709103354,AIN
+Trampoline Gymnastics,Male,18.12183436002738,China
+Trampoline Gymnastics,Male,24.919917864476385,China
+Trampoline Gymnastics,Female,33.64271047227926,Great Britain
+Trampoline Gymnastics,Female,19.15126625598905,AIN
+Trampoline Gymnastics,Female,25.9958932238193,Canada
+Archery,Female,21.136208076659823,Korea
+Archery,Female,19.509924709103355,Korea
+Archery,Female,24.309377138945926,France
+Artistic Gymnastics,Male,24.45722108145106,Philippines
+Artistic Gymnastics,Male,27.12662559890486,Israel
+Artistic Gymnastics,Male,22.661190965092402,Great Britain
+Artistic Gymnastics,Male,25.032169746748803,Ireland
+Artistic Gymnastics,Male,26.652977412731005,Kazakhstan
+Artistic Gymnastics,Male,25.760438056125942,United States
+Artistic Gymnastics,Female,27.38398357289528,United States
+Artistic Gymnastics,Female,25.234770704996578,Brazil
+Artistic Gymnastics,Female,24.18069815195072,United States
+Athletics,Male,22.60917180013689,Norway
+Athletics,Male,24.11772758384668,Germany
+Athletics,Male,31.422313483915126,Grenada
+Athletics,Male,31.619438740588638,United States
+Athletics,Male,35.09377138945928,United States
+Athletics,Male,28.421629021218344,Jamaica
+Athletics,Female,23.143052703627653,Saint Lucia
+Athletics,Female,24.35318275154004,United States
+Athletics,Female,23.44147843942505,United States
+Athletics,Female,30.324435318275153,Dominica
+Athletics,Female,32.49555099247091,Jamaica
+Athletics,Female,23.252566735112936,United States
+Boxing,Female,26.26420260095825,Chinese Taipei
+Boxing,Female,31.644079397672826,Brazil
+Cycling Road,Male,24.517453798767967,Belgium
+Cycling Road,Male,28.05475701574264,France
+Cycling Road,Male,31.638603696098563,France
+Rowing,Male,28.021902806297057,Germany
+Rowing,Male,24.895277207392198,AIN
+Rowing,Male,27.310061601642712,Netherlands
+Rowing,Female,26.321697467488022,Netherlands
+Rowing,Female,37.42094455852156,New Zealand
+Rowing,Female,28.303901437371664,Lithuania
+Sailing,Male,24.136892539356605,Israel
+Sailing,Male,20.79397672826831,Australia
+Sailing,Male,25.19917864476386,Netherlands
+Sailing,Female,28.55852156057495,Italy
+Sailing,Female,21.508555783709788,Israel
+Sailing,Female,25.319644079397673,Great Britain
+Shooting,Female,21.201916495550993,Korea
+Shooting,Female,22.269678302532512,France
+Shooting,Female,27.370294318959616,Hungary
+Shooting,Male,35.370294318959616,United States
+Shooting,Male,24.344969199178646,United States
+Shooting,Male,29.935660506502394,Chinese Taipei
+Swimming,Male,24.44626967830253,Hungary
+Swimming,Male,21.949349760438057,Canada
+Swimming,Male,19.479808350444902,Canada
+Swimming,Female,17.95482546201232,Canada
+Swimming,Female,22.704996577686515,United States
+Swimming,Female,23.055441478439427,Australia
+Swimming,Female,27.37577002053388,United States
+Swimming,Female,23.89869952087611,Australia
+Swimming,Female,25.776865160848732,United States
+Table Tennis,Female,30.543463381245722,China
+Table Tennis,Female,23.73990417522245,China
+Table Tennis,Female,24.0684462696783,Japan
+Tennis,Male,22.414784394250514,Italy
+Tennis,Female,21.815195071868583,China
+Tennis,Female,28.093086926762492,Croatia
+Archery,Male,32.114989733059545,Korea
+Archery,Male,35.761806981519506,United States
+Archery,Male,26.98425735797399,Korea
+Artistic Gymnastics,Male,29.973990417522245,China
+Artistic Gymnastics,Male,26.576317590691307,China
+Artistic Gymnastics,Male,33.67008898015058,Greece
+Artistic Gymnastics,Male,24.45722108145106,Philippines
+Artistic Gymnastics,Male,31.980835044490075,Armenia
+Artistic Gymnastics,Male,20.654346338124572,Great Britain
+Artistic Gymnastics,Female,17.587953456536617,Algeria
+Artistic Gymnastics,Female,17.190965092402465,China
+Artistic Gymnastics,Female,21.399041752224505,United States
+Athletics,Male,27.039014373716633,United States
+Athletics,Male,23.041752224503764,Jamaica
+Athletics,Male,29.23750855578371,United States
+Athletics,Male,22.324435318275153,Canada
+Athletics,Male,26.99247091033539,Hungary
+Athletics,Male,23.523613963039015,Ukraine
+Athletics,Female,22.86652977412731,Ukraine
+Athletics,Female,27.592060232717316,Australia
+Athletics,Female,29.39630390143737,Ukraine
+Athletics,Female,28.194387405886378,Australia
+Badminton,Female,24.974674880219027,Indonesia
+Boxing,Male,20.473648186173854,Dominican Republic
+Boxing,Male,27.983572895277206,Cabo Verde
+Boxing,Male,25.744010951403148,Canada
+Boxing,Male,27.928815879534564,Georgia
+Boxing,Male,23.745379876796715,Dominican Republic
+Boxing,Male,31.44147843942505,Cuba
+Boxing,Male,31.630390143737166,Spain
+Boxing,Male,25.54962354551677,Tajikistan
+Boxing,Female,29.932922655715263,DPR Korea
+Boxing,Female,25.22655715263518,Korea
+Cycling Road,Female,31.619438740588638,United States
+Cycling Road,Female,37.22108145106092,Netherlands
+Cycling Road,Female,28.725530458590008,Belgium
+Equestrian,Female,38.455852156057496,Germany
+Equestrian,Female,55.030800821355236,Germany
+Equestrian,Female,28.470910335386723,Great Britain
+Golf,Male,28.112251882272417,United States
+Golf,Male,33.53319644079398,Great Britain
+Golf,Male,32.43258042436687,Japan
+Shooting,Female,34.26420260095825,Chile
+Shooting,Female,26.94592744695414,Great Britain
+Shooting,Female,23.025325119780973,United States
+Swimming,Male,24.736481861738536,United States
+Swimming,Male,29.905544147843944,Italy
+Swimming,Male,23.04996577686516,Ireland
+Swimming,Female,30.95687885010267,Sweden
+Swimming,Female,22.403832991101986,Australia
+Swimming,Female,26.286105407255306,China
+Table Tennis,Male,27.523613963039015,China
+Table Tennis,Male,22.455852156057496,Sweden
+Table Tennis,Male,17.88637919233402,France
+Tennis,Male,37.19644079397673,Serbia
+Tennis,Male,21.242984257357975,Spain
+Artistic Gymnastics,Male,20.752908966461327,Japan
+Artistic Gymnastics,Male,17.971252566735114,Colombia
+Artistic Gymnastics,Male,24.410677618069816,China
+Artistic Gymnastics,Male,27.854893908281998,Chinese Taipei
+Artistic Gymnastics,Male,26.576317590691307,China
+Artistic Gymnastics,Male,20.97741273100616,Ukraine
+Artistic Gymnastics,Male,20.752908966461327,Japan
+Artistic Gymnastics,Female,21.481177275838466,Italy
+Artistic Gymnastics,Female,18.718685831622178,China
+Artistic Gymnastics,Female,17.746748802190282,Italy
+Artistic Gymnastics,Female,25.234770704996578,Brazil
+Artistic Gymnastics,Female,27.38398357289528,United States
+Artistic Gymnastics,Female,18.017796030116358,Romania
+Athletics,Male,24.725530458590008,Sweden
+Athletics,Male,31.89869952087611,United States
+Athletics,Male,24.78302532511978,Greece
+Athletics,Female,24.407939767282684,Kenya
+Athletics,Female,30.55715263518138,Kenya
+Athletics,Female,31.581108829568787,Netherlands
+Athletics,Female,22.414784394250514,Great Britain
+Athletics,Female,23.43600273785079,Ethiopia
+Athletics,Female,24.128678986995208,Kenya
+Athletics,Female,29.437371663244353,United States
+Athletics,Female,30.32991101984942,China
+Athletics,Female,34.11362080766598,Croatia
+Badminton,Male,30.573579739904176,Denmark
+Badminton,Male,23.225188227241617,Thailand
+Badminton,Male,26.34360027378508,Malaysia
+Badminton,Female,22.48596851471595,Korea
+Badminton,Female,27.364818617385353,China
+Canoe Slalom,Male,29.377138945927445,New Zealand
+Canoe Slalom,Male,31.742642026009584,Great Britain
+Canoe Slalom,Male,25.38261464750171,Germany
+Canoe Slalom,Female,27.370294318959616,Australia
+Canoe Slalom,Female,24.005475701574266,France
+Canoe Slalom,Female,28.89801505817933,Great Britain
+Shooting,Male,34.926762491444215,China
+Shooting,Male,25.544147843942504,Korea
+Shooting,Male,27.770020533880903,China
+Surfing,Male,22.428473648186174,France
+Surfing,Male,26.595482546201232,Australia
+Surfing,Male,30.60917180013689,Brazil
+Surfing,Female,22.46132785763176,United States
+Surfing,Female,28.229979466119097,Brazil
+Surfing,Female,30.699520876112253,France
+Athletics,Male,23.15400410677618,United States
+Athletics,Male,26.8145106091718,Great Britain
+Athletics,Male,25.169062286105408,United States
+Athletics,Male,26.373716632443532,Greece
+Athletics,Male,23.770020533880903,Jamaica
+Athletics,Male,19.479808350444902,Italy
+Athletics,Female,27.64955509924709,United States
+Athletics,Female,23.143052703627653,Saint Lucia
+Athletics,Female,29.28952772073922,United States
+Athletics,Female,24.58590006844627,Bahrain
+Athletics,Female,25.062286105407257,Uganda
+Athletics,Female,20.05201916495551,Kenya
+Athletics,Female,25.152635181382614,Canada
+Athletics,Female,28.008213552361397,United States
+Athletics,Female,21.801505817932924,China
+Boxing,Male,21.73305954825462,United States
+Boxing,Male,27.159479808350444,Great Britain
+Boxing,Female,30.88021902806297,Kazakhstan
+Boxing,Female,29.00205338809035,Philippines
+Boxing,Female,34.639288158795345,Ireland
+Boxing,Female,33.549623545516766,China
+Boxing,Female,23.849418206707735,Thailand
+Boxing,Female,27.227926078028748,Chinese Taipei
+Diving,Female,17.347022587268995,China
+Diving,Female,18.888432580424368,China
+Diving,Female,23.318275154004105,DPR Korea
+Equestrian,Male,34.41204654346338,Germany
+Equestrian,Male,42.143737166324435,Switzerland
+Equestrian,Male,36.473648186173854,Netherlands
+Skateboarding,Female,14.223134839151266,Australia
+Skateboarding,Female,15.931553730321697,Japan
+Skateboarding,Female,16.0684462696783,Great Britain
+Wrestling,Male,41.949349760438054,Cuba
+Wrestling,Male,36.04380561259411,Chile
+Wrestling,Male,26.562628336755647,IR Iran
+Wrestling,Male,26.2943189596167,China
+Wrestling,Male,28.621492128678987,Japan
+Wrestling,Male,25.82614647501711,China
+Wrestling,Male,24.840520191649556,Kyrgyzstan
+Wrestling,Male,25.609856262833677,DPR Korea
+Wrestling,Female,20.583162217659137,United States
+Wrestling,Female,24.72826830937714,Kyrgyzstan
+Wrestling,Female,28.657084188911703,Türkiye
+Wrestling,Female,21.360711841204655,Japan
+Athletics,Male,28.566735112936346,Morocco
+Athletics,Male,24.78028747433265,United States
+Athletics,Male,28.320328542094455,Kenya
+Athletics,Male,26.0041067761807,United States
+Athletics,Male,29.765913757700204,Great Britain
+Athletics,Male,21.645448323066393,Zambia
+Athletics,Male,25.429158110882955,Jamaica
+Athletics,Male,21.842573579739906,Lithuania
+Athletics,Male,28.164271047227928,Australia
+Athletics,Female,27.32375085557837,Australia
+Athletics,Female,33.13620807665982,United States
+Athletics,Female,30.091718001368925,Canada
+Boxing,Male,25.57700205338809,Germany
+Boxing,Male,28.45722108145106,France
+Boxing,Male,24.04928131416838,Cuba
+Boxing,Male,29.607118412046542,France
+Boxing,Male,28.996577686516083,Ukraine
+Boxing,Male,24.139630390143736,Kazakhstan
+Boxing,Female,27.077344284736483,Türkiye
+Boxing,Female,32.3066392881588,Philippines
+Sailing,Male,28.83778234086242,Australia
+Sailing,Male,34.469541409993155,Cyprus
+Sailing,Male,29.541409993155373,Peru
+Sailing,Female,36.12320328542094,Netherlands
+Sailing,Female,33.13347022587269,Denmark
+Sailing,Female,28.725530458590008,Norway
+Skateboarding,Male,21.388090349075977,Australia
+Skateboarding,Male,24.88158795345654,United States
+Skateboarding,Male,23.63586584531143,Brazil
+Sport Climbing,Female,30.494182067077343,Poland
+Sport Climbing,Female,24.2217659137577,China
+Sport Climbing,Female,22.600958247775495,Poland
+Taekwondo,Male,20.1533196440794,Korea
+Taekwondo,Male,24.859685147159478,Azerbaijan
+Taekwondo,Male,21.905544147843944,France
+Taekwondo,Male,22.168377823408623,Tunisia
+Taekwondo,Female,26.981519507186857,Thailand
+Taekwondo,Female,24.210814510609172,China
+Taekwondo,Female,19.208761122518823,IR Iran
+Taekwondo,Female,22.576317590691307,Croatia
+Weightlifting,Male,31.54277891854894,China
+Weightlifting,Male,20.700889801505816,Thailand
+Weightlifting,Male,20.45448323066393,United States
+Weightlifting,Female,27.37303216974675,China
+Weightlifting,Female,21.702943189596166,Romania
+Weightlifting,Female,24.607802874743328,Thailand
+Wrestling,Male,23.67419575633128,Japan
+Wrestling,Male,34.7460643394935,Kazakhstan
+Wrestling,Male,25.52498288843258,Armenia
+Wrestling,Male,25.297741273100616,Kyrgyzstan
+Wrestling,Male,26.56810403832991,IR Iran
+Wrestling,Male,32.780287474332646,Armenia
+Wrestling,Male,25.574264202600958,Cuba
+Wrestling,Male,28.303901437371664,Kyrgyzstan
+Wrestling,Female,30.855578370978783,United States
+Wrestling,Female,27.980835044490075,Cuba
+Wrestling,Female,25.089664613278575,Japan
+Wrestling,Female,25.09240246406571,China
+Athletics,Male,26.699520876112253,United States
+Athletics,Male,26.715947980835043,United States
+Athletics,Male,23.967145790554415,Jamaica
+Athletics,Male,21.152635181382614,Botswana
+Athletics,Male,25.79876796714579,United States
+Athletics,Male,27.039014373716633,United States
+Athletics,Male,27.578370978781656,Pakistan
+Athletics,Male,26.60369609856263,India
+Athletics,Male,26.77891854893908,Grenada
+Athletics,Female,24.985626283367555,United States
+Athletics,Female,26.926762491444215,United States
+Athletics,Female,24.438056125941138,Netherlands
+Athletics,Female,25.201916495550993,United States
+Athletics,Female,30.491444216290212,Germany
+Athletics,Female,23.252566735112936,United States
+Boxing,Male,31.104722792607802,Uzbekistan
+Boxing,Male,26.132785763175907,France
+Boxing,Male,22.69678302532512,Australia
+Boxing,Male,28.04928131416838,Bulgaria
+Boxing,Female,27.104722792607802,China
+Boxing,Female,23.104722792607802,Türkiye
+Boxing,Female,28.290212183436,Australia
+Boxing,Female,25.900068446269678,EOR
+Cycling Track,Male,28.8870636550308,France
+Cycling Track,Male,26.080766598220396,Portugal
+Cycling Track,Male,23.860369609856264,Belgium
+Cycling Track,Female,24.58590006844627,New Zealand
+Cycling Track,Female,26.17659137577002,Netherlands
+Cycling Track,Female,21.609856262833677,Great Britain
+Diving,Male,28.344969199178646,China
+Diving,Male,22.770704996577688,China
+Diving,Male,20.15605749486653,Mexico
+Marathon Swimming,Female,30.89390828199863,Netherlands
+Marathon Swimming,Female,26.86652977412731,Australia
+Marathon Swimming,Female,27.247091033538673,Italy
+Sailing,Female,27.589322381930184,Great Britain
+Sailing,Female,25.645448323066393,France
+Sailing,Female,30.748802190280628,Netherlands
+Sport Climbing,Male,27.392197125256672,Indonesia
+Sport Climbing,Male,21.796030116358658,China
+Sport Climbing,Male,18.425735797399042,United States
+Taekwondo,Male,22.360027378507873,Uzbekistan
+Taekwondo,Male,23.11841204654346,Jordan
+Taekwondo,Male,23.890485968514717,China
+Taekwondo,Male,26.806297056810404,Brazil
+Taekwondo,Female,23.789185489390828,Korea
+Taekwondo,Female,26.001368925393567,IR Iran
+Taekwondo,Female,25.155373032169745,Canada
+Taekwondo,Female,26.06160164271047,Bulgaria
+Weightlifting,Male,21.125256673511295,Indonesia
+Weightlifting,Male,19.975359342915812,Thailand
+Weightlifting,Male,27.537303216974674,Bulgaria
+Weightlifting,Female,23.33196440793977,China
+Weightlifting,Female,31.260780287474333,Canada
+Weightlifting,Female,30.680355920602327,Chinese Taipei
+Wrestling,Male,21.048596851471594,IR Iran
+Wrestling,Male,25.95482546201232,Ukraine
+Wrestling,Male,21.82340862422998,Azerbaijan
+Wrestling,Male,29.94387405886379,Cuba
+Wrestling,Male,26.639288158795345,Bulgaria
+Wrestling,Male,21.754962354551676,IR Iran
+Wrestling,Male,33.51950718685831,Ukraine
+Wrestling,Male,22.798083504449007,Denmark
+Wrestling,Female,20.722792607802873,Japan
+Wrestling,Female,23.449691991786448,Ecuador
+Wrestling,Female,24.227241615331966,DPR Korea
+Wrestling,Female,27.71526351813826,China
+Athletics,Male,27.014373716632445,United States
+Athletics,Male,28.424366872005475,Norway
+Athletics,Male,24.161533196440793,Brazil
+Athletics,Male,23.43600273785079,Spain
+Athletics,Male,31.08829568788501,Portugal
+Athletics,Male,28.602327173169062,Italy
+Athletics,Female,24.407939767282684,Kenya
+Athletics,Female,24.303901437371664,Italy
+Athletics,Female,31.581108829568787,Netherlands
+Athletics,Female,27.76728268309377,Dominican Republic
+Athletics,Female,26.193018480492814,Bahrain
+Athletics,Female,26.537987679671456,Poland
+Athletics,Female,25.828884325804243,Germany
+Athletics,Female,25.136208076659823,New Zealand
+Athletics,Female,26.87748117727584,China
+Boxing,Male,23.23340177960301,Uzbekistan
+Boxing,Male,22.469541409993155,Mexico
+Boxing,Male,25.22108145106092,Uzbekistan
+Boxing,Male,29.013004791238878,Azerbaijan
+Boxing,Female,29.54962354551677,China
+Boxing,Female,28.18343600273785,Türkiye
+Boxing,Female,25.251197809719372,Algeria
+Boxing,Female,32.199863107460644,China
+Breaking,Female,25.639972621492127,Japan
+Breaking,Female,17.149897330595483,Lithuania
+Breaking,Female,18.784394250513348,China
+Canoe Sprint,Male,31.255304585900067,Czechia
+Canoe Sprint,Male,30.576317590691307,Brazil
+Canoe Sprint,Male,27.104722792607802,Republic of Moldova
+Cycling Track,Male,27.38398357289528,Netherlands
+Cycling Track,Male,25.29226557152635,Australia
+Cycling Track,Male,27.274469541409992,Great Britain
+Diving,Female,25.130732375085557,China
+Diving,Female,28.191649555099247,Australia
+Diving,Female,22.650239561943874,China
+Marathon Swimming,Male,27.34839151266256,Hungary
+Marathon Swimming,Male,22.373716632443532,Germany
+Marathon Swimming,Male,20.908966461327857,Hungary
+Sailing,Male,23.496235455167692,Austria
+Sailing,Male,24.150581793292265,Slovenia
+Sailing,Male,17.88637919233402,Singapore
+Sport Climbing,Male,19.381245722108144,Great Britain
+Sport Climbing,Male,17.713894592744694,Japan
+Sport Climbing,Male,33.58521560574949,Austria
+Taekwondo,Male,28.903490759753595,Tunisia
+Taekwondo,Male,24.016427104722794,IR Iran
+Taekwondo,Male,24.298425735797398,Italy
+Taekwondo,Male,20.59958932238193,Denmark
+Taekwondo,Female,18.455852156057496,Hungary
+Taekwondo,Female,22.083504449007528,Serbia
+Taekwondo,Female,18.882956878850102,United States
+Taekwondo,Female,19.249828884325805,Belgium
+Weightlifting,Male,20.2217659137577,Bulgaria
+Weightlifting,Male,24.917180013689254,Colombia
+Weightlifting,Male,27.94798083504449,Italy
+Weightlifting,Female,21.286789869952088,United States
+Weightlifting,Female,32.81587953456537,Colombia
+Weightlifting,Female,23.88501026694045,Ecuador
+Wrestling,Male,28.50924024640657,Japan
+Wrestling,Male,25.79876796714579,United States
+Wrestling,Male,21.045859000684462,India
+Wrestling,Male,25.72210814510609,Uzbekistan
+Wrestling,Male,31.195071868583163,Bulgaria
+Wrestling,Male,29.598904859685145,IR Iran
+Wrestling,Male,24.128678986995208,United States
+Wrestling,Male,32.054757015742645,Greece
+Wrestling,Female,22.910335386721425,Japan
+Wrestling,Female,25.44832306639288,Republic of Moldova
+Wrestling,Female,32.86789869952088,United States
+Wrestling,Female,21.568788501026695,China
+Athletics,Male,23.865845311430526,Norway
+Athletics,Male,28.867898699520875,Kenya
+Athletics,Male,27.277207392197127,United States
+Athletics,Male,20.0,Kenya
+Athletics,Male,25.864476386036962,Canada
+Athletics,Male,25.248459958932237,Algeria
+Athletics,Male,27.956194387405887,New Zealand
+Athletics,Male,28.320328542094455,United States
+Athletics,Male,33.106091718001366,Qatar
+Athletics,Male,32.97467488021903,Ethiopia
+Athletics,Male,35.4715947980835,Belgium
+Athletics,Male,33.37713894592745,Kenya
+Athletics,Female,24.123203285420946,United States
+Athletics,Female,23.750855578370977,France
+Athletics,Female,27.94524298425736,Puerto Rico
+Athletics,Female,30.55715263518138,Kenya
+Athletics,Female,27.77549623545517,Australia
+Athletics,Female,30.78986995208761,Great Britain
+Athletics,Female,26.379192334017795,Japan
+Athletics,Female,26.82819986310746,South Africa
+Athletics,Female,33.95482546201232,Czechia
+Boxing,Male,30.067077344284737,Uzbekistan
+Boxing,Male,25.65366187542779,Spain
+Boxing,Male,24.31211498973306,Uzbekistan
+Boxing,Male,28.583162217659137,Kyrgyzstan
+Boxing,Female,28.635181382614647,Chinese Taipei
+Boxing,Female,20.93908281998631,Poland
+Boxing,Female,34.15468856947297,China
+Boxing,Female,35.32101300479124,Panama
+Breaking,Male,27.515400410677618,Canada
+Breaking,Male,36.24640657084189,France
+Breaking,Male,30.253251197809718,United States
+Canoe Sprint,Male,31.41409993155373,Czechia
+Canoe Sprint,Male,24.698151950718685,Hungary
+Canoe Sprint,Male,27.11567419575633,Hungary
+Canoe Sprint,Female,28.38877481177276,Canada
+Canoe Sprint,Female,22.16563997262149,United States
+Canoe Sprint,Female,22.22861054072553,Cuba
+Canoe Sprint,Female,35.10746064339494,New Zealand
+Canoe Sprint,Female,34.93771389459275,Hungary
+Canoe Sprint,Female,28.503764544832308,Denmark
+Diving,Male,29.481177275838466,China
+Diving,Male,17.88911704312115,Japan
+Diving,Male,24.213552361396303,Great Britain
+Golf,Female,27.27173169062286,New Zealand
+Golf,Female,25.54688569472964,Germany
+Golf,Female,28.432580424366872,China
+Modern Pentathlon,Male,24.418891170431213,Egypt
+Modern Pentathlon,Male,30.781656399726216,Japan
+Modern Pentathlon,Male,24.511978097193705,Italy
+Sport Climbing,Female,25.39082819986311,Slovenia
+Sport Climbing,Female,23.312799452429843,United States
+Sport Climbing,Female,27.690622861054074,Austria
+Taekwondo,Male,20.62696783025325,IR Iran
+Taekwondo,Male,21.23750855578371,Great Britain
+Taekwondo,Male,30.97056810403833,Cuba
+Taekwondo,Male,30.86652977412731,Côte d'Ivoire
+Taekwondo,Female,22.915811088295687,France
+Taekwondo,Female,24.246406570841888,Uzbekistan
+Taekwondo,Female,27.64955509924709,Korea
+Taekwondo,Female,29.44558521560575,Türkiye
+Weightlifting,Male,30.830937713894592,Georgia
+Weightlifting,Male,25.253935660506503,Armenia
+Weightlifting,Male,29.76865160848734,Bahrain
+Weightlifting,Male,22.94866529774127,China
+Weightlifting,Male,24.815879534565365,Uzbekistan
+Weightlifting,Male,25.741273100616016,AIN
+Weightlifting,Female,25.71663244353183,Norway
+Weightlifting,Female,26.581793292265573,Egypt
+Weightlifting,Female,26.223134839151268,Ecuador
+Wrestling,Male,30.33538672142368,Georgia
+Wrestling,Male,23.540041067761805,IR Iran
+Wrestling,Male,33.69199178644764,Türkiye
+Wrestling,Male,32.219028062970565,Azerbaijan
+Wrestling,Male,26.168377823408623,Uzbekistan
+Wrestling,Male,29.691991786447637,Japan
+Wrestling,Male,33.43189596167009,United States
+Wrestling,Male,25.642710472279262,Albania
+Wrestling,Female,22.444900752908968,Japan
+Wrestling,Female,25.927446954141,Ukraine
+Wrestling,Female,31.24435318275154,Kyrgyzstan
+Wrestling,Female,27.479808350444902,Norway
+Athletics,Female,31.581108829568787,Netherlands
+Athletics,Female,27.66050650239562,Ethiopia
+Athletics,Female,34.63381245722108,Kenya
+Cycling Track,Male,27.38398357289528,Netherlands
+Cycling Track,Male,25.29226557152635,Australia
+Cycling Track,Male,31.93702943189596,Australia
+Cycling Track,Female,29.60438056125941,United States
+Cycling Track,Female,27.567419575633128,Poland
+Cycling Track,Female,23.572895277207394,New Zealand
+Cycling Track,Female,24.58590006844627,New Zealand
+Cycling Track,Female,24.566735112936346,Germany
+Cycling Track,Female,21.609856262833677,Great Britain
+Modern Pentathlon,Female,23.770020533880903,Hungary
+Modern Pentathlon,Female,35.54551676933607,France
+Modern Pentathlon,Female,21.22108145106092,Korea
+Weightlifting,Female,24.407939767282684,China
+Weightlifting,Female,21.39082819986311,Korea
+Weightlifting,Female,30.239561943874058,Great Britain
+Wrestling,Male,23.304585900068446,Japan
+Wrestling,Male,22.04243668720055,IR Iran
+Wrestling,Male,25.930184804928132,Puerto Rico
+Wrestling,Male,29.544147843942504,Albania
+Wrestling,Male,21.516769336071185,Bahrain
+Wrestling,Male,27.208761122518823,Georgia
+Wrestling,Male,26.510609171800137,Azerbaijan
+Wrestling,Male,22.351813826146476,IR Iran
+Wrestling,Female,22.88021902806297,Japan
+Wrestling,Female,20.908966461327857,United States
+Wrestling,Female,23.378507871321013,Cuba
+Wrestling,Female,23.60848733744011,Colombia
+Rhythmic Gymnastics,Female,17.741273100616016,Germany
+Rhythmic Gymnastics,Female,23.939767282683093,Bulgaria
+Rhythmic Gymnastics,Female,20.53388090349076,Italy
+Athletics,Female,29.95208761122519,Belgium
+Athletics,Female,31.55920602327173,Great Britain
+Athletics,Female,28.17248459958932,Belgium
+Diving,Female,22.650239561943874,China
+Diving,Female,25.130732375085557,China
+Diving,Female,27.863107460643395,United States
+Diving,Female,29.232032854209447,United States
+Diving,Female,24.01095140314853,Great Britain
+Diving,Female,22.584531143052704,Great Britain
+Rugby Sevens,Male,25.010266940451746,France
+Rugby Sevens,Male,20.177960301163587,France
+Rugby Sevens,Male,24.9637234770705,France
+Rugby Sevens,Male,22.78986995208761,France
+Rugby Sevens,Male,30.001368925393567,France
+Rugby Sevens,Male,30.28336755646817,France
+Rugby Sevens,Male,21.924709103353866,France
+Rugby Sevens,Male,25.196440793976727,France
+Rugby Sevens,Male,24.205338809034906,France
+Rugby Sevens,Male,33.27310061601643,France
+Rugby Sevens,Male,27.709787816564,France
+Rugby Sevens,Male,25.648186173853524,France
+Rugby Sevens,Male,23.444216290212182,France
+Rugby Sevens,Male,24.145106091718002,Fiji
+Rugby Sevens,Male,27.3347022587269,Fiji
+Rugby Sevens,Male,26.050650239561943,Fiji
+Rugby Sevens,Male,34.091718001368925,Fiji
+Rugby Sevens,Male,26.23134839151266,Fiji
+Rugby Sevens,Male,26.351813826146476,Fiji
+Rugby Sevens,Male,30.072553045859,Fiji
+Rugby Sevens,Male,31.189596167008897,Fiji
+Rugby Sevens,Male,35.35934291581109,Fiji
+Rugby Sevens,Male,31.43600273785079,Fiji
+Rugby Sevens,Male,25.05681040383299,Fiji
+Rugby Sevens,Male,24.539356605065024,Fiji
+Rugby Sevens,Male,30.028747433264886,Fiji
+Rugby Sevens,Male,30.119096509240247,Fiji
+Rugby Sevens,Male,24.186173853524984,South Africa
+Rugby Sevens,Male,29.196440793976727,South Africa
+Rugby Sevens,Male,29.17453798767967,South Africa
+Rugby Sevens,Male,27.24435318275154,South Africa
+Rugby Sevens,Male,21.54688569472964,South Africa
+Rugby Sevens,Male,23.446954140999317,South Africa
+Rugby Sevens,Male,27.189596167008897,South Africa
+Rugby Sevens,Male,30.351813826146476,South Africa
+Rugby Sevens,Male,26.302532511978097,South Africa
+Rugby Sevens,Male,35.26078028747433,South Africa
+Rugby Sevens,Male,31.64955509924709,South Africa
+Rugby Sevens,Male,24.61054072553046,South Africa
+Rugby Sevens,Male,28.914442162902123,South Africa
+Shooting,Female,17.911019849418206,China
+Shooting,Male,19.65776865160849,China
+Shooting,Female,24.3750855578371,Korea
+Shooting,Male,24.28473648186174,Korea
+Shooting,Female,20.246406570841888,Kazakhstan
+Shooting,Male,25.861738535249827,Kazakhstan
+Swimming,Male,29.097878165639973,United States
+Swimming,Male,22.4476386036961,United States
+Swimming,Male,23.51813826146475,United States
+Swimming,Male,27.958932238193018,United States
+Swimming,Male,21.533196440793976,United States
+Swimming,Male,21.10335386721424,United States
+Swimming,Male,25.859000684462696,Australia
+Swimming,Male,25.806981519507186,Australia
+Swimming,Male,19.156741957563312,Australia
+Swimming,Male,26.102669404517453,Australia
+Swimming,Male,20.955509924709105,Australia
+Swimming,Male,29.97946611909651,Italy
+Swimming,Male,25.032169746748803,Italy
+Swimming,Male,22.47501711156742,Italy
+Swimming,Male,27.449691991786448,Italy
+Swimming,Male,23.509924709103355,Italy
+Swimming,Male,25.831622176591377,Italy
+Swimming,Female,18.171115674195757,Australia
+Swimming,Female,30.217659137577,Australia
+Swimming,Female,22.403832991101986,Australia
+Swimming,Female,30.190280629705683,Australia
+Swimming,Female,25.73579739904175,Australia
+Swimming,Female,20.331279945242983,Australia
+Swimming,Female,27.66050650239562,United States
+Swimming,Female,27.99726214921287,United States
+Swimming,Female,25.930184804928132,United States
+Swimming,Female,22.704996577686515,United States
+Swimming,Female,21.650924024640656,United States
+Swimming,Female,21.505817932922657,United States
+Swimming,Female,18.858316221765914,China
+Swimming,Female,21.508555783709788,China
+Swimming,Female,18.90485968514716,China
+Swimming,Female,22.51334702258727,China
+Swimming,Female,26.286105407255306,China
+Archery,Female,30.17659137577002,Korea
+Archery,Female,21.136208076659823,Korea
+Archery,Female,19.509924709103355,Korea
+Archery,Female,23.66050650239562,China
+Archery,Female,26.954140999315538,China
+Archery,Female,24.093086926762492,China
+Archery,Female,18.012320328542096,Mexico
+Archery,Female,29.790554414784395,Mexico
+Archery,Female,23.822039698836413,Mexico
+Archery,Male,20.303901437371664,Korea
+Archery,Male,32.114989733059545,Korea
+Archery,Male,26.98425735797399,Korea
+Archery,Male,17.650924024640656,France
+Archery,Male,26.87748117727584,France
+Archery,Male,35.36755646817249,France
+Archery,Male,25.149897330595483,Türkiye
+Archery,Male,22.255989048596852,Türkiye
+Archery,Male,20.733744010951405,Türkiye
+Artistic Gymnastics,Male,22.98425735797399,Japan
+Artistic Gymnastics,Male,27.698836413415467,Japan
+Artistic Gymnastics,Male,20.752908966461327,Japan
+Artistic Gymnastics,Male,25.78781656399726,Japan
+Artistic Gymnastics,Male,28.024640657084188,Japan
+Artistic Gymnastics,Male,29.973990417522245,China
+Artistic Gymnastics,Male,24.369609856262834,China
+Artistic Gymnastics,Male,28.503764544832308,China
+Artistic Gymnastics,Male,24.410677618069816,China
+Artistic Gymnastics,Male,26.576317590691307,China
+Artistic Gymnastics,Male,20.358658453114305,United States
+Artistic Gymnastics,Male,23.069130732375086,United States
+Artistic Gymnastics,Male,24.566735112936346,United States
+Artistic Gymnastics,Male,25.760438056125942,United States
+Artistic Gymnastics,Male,20.27378507871321,United States
+Diving,Male,23.742642026009584,China
+Diving,Male,26.491444216290212,China
+Diving,Male,30.198494182067076,Great Britain
+Diving,Male,24.213552361396303,Great Britain
+Diving,Male,22.579055441478438,Canada
+Diving,Male,21.2621492128679,Canada
+Equestrian,Male,33.229295003422315,Great Britain
+Equestrian,Female,34.91854893908282,Great Britain
+Equestrian,Female,38.548939082819984,Great Britain
+Equestrian,Female,27.21971252566735,Great Britain
+Equestrian,Male,48.993839835728956,France
+Equestrian,Male,30.16290212183436,France
+Equestrian,Male,44.22724161533196,France
+Equestrian,Male,35.383983572895275,France
+Equestrian,Male,38.77344284736482,Japan
+Equestrian,Male,48.035592060232716,Japan
+Equestrian,Male,41.158110882956876,Japan
+Equestrian,Male,39.493497604380565,Japan
+Artistic Gymnastics,Female,27.38398357289528,United States
+Artistic Gymnastics,Female,24.18069815195072,United States
+Artistic Gymnastics,Female,23.29637234770705,United States
+Artistic Gymnastics,Female,21.399041752224505,United States
+Artistic Gymnastics,Female,16.15879534565366,United States
+Artistic Gymnastics,Female,18.154688569472963,Italy
+Artistic Gymnastics,Female,21.481177275838466,Italy
+Artistic Gymnastics,Female,17.746748802190282,Italy
+Artistic Gymnastics,Female,21.366187542778917,Italy
+Artistic Gymnastics,Female,21.437371663244353,Italy
+Artistic Gymnastics,Female,25.234770704996578,Brazil
+Artistic Gymnastics,Female,33.086926762491444,Brazil
+Artistic Gymnastics,Female,26.302532511978097,Brazil
+Artistic Gymnastics,Female,24.83778234086242,Brazil
+Artistic Gymnastics,Female,18.940451745379878,Brazil
+Fencing,Female,33.05133470225873,Italy
+Fencing,Female,35.115674195756334,Italy
+Fencing,Female,29.776865160848732,Italy
+Fencing,Female,39.03901437371663,Italy
+Fencing,Female,29.232032854209447,France
+Fencing,Female,30.806297056810404,France
+Fencing,Female,33.42915811088296,France
+Fencing,Female,28.413415468856947,France
+Fencing,Female,36.04654346338125,Poland
+Fencing,Female,30.067077344284737,Poland
+Fencing,Female,20.462696783025326,Poland
+Fencing,Female,28.80766598220397,Poland
+Rugby Sevens,Female,24.177960301163587,New Zealand
+Rugby Sevens,Female,20.479123887748116,New Zealand
+Rugby Sevens,Female,28.744695414099933,New Zealand
+Rugby Sevens,Female,21.911019849418206,New Zealand
+Rugby Sevens,Female,31.644079397672826,New Zealand
+Rugby Sevens,Female,28.591375770020534,New Zealand
+Rugby Sevens,Female,30.086242299794662,New Zealand
+Rugby Sevens,Female,23.28542094455852,New Zealand
+Rugby Sevens,Female,24.082135523613964,New Zealand
+Rugby Sevens,Female,29.43189596167009,New Zealand
+Rugby Sevens,Female,33.05681040383299,New Zealand
+Rugby Sevens,Female,25.634496919917865,New Zealand
+Rugby Sevens,Female,26.286105407255306,Canada
+Rugby Sevens,Female,25.66735112936345,Canada
+Rugby Sevens,Female,27.515400410677618,Canada
+Rugby Sevens,Female,25.284052019164957,Canada
+Rugby Sevens,Female,21.26488706365503,Canada
+Rugby Sevens,Female,27.78097193702943,Canada
+Rugby Sevens,Female,22.20123203285421,Canada
+Rugby Sevens,Female,20.733744010951405,Canada
+Rugby Sevens,Female,21.130732375085557,Canada
+Rugby Sevens,Female,22.182067077344286,Canada
+Rugby Sevens,Female,23.052703627652292,Canada
+Rugby Sevens,Female,24.511978097193705,Canada
+Rugby Sevens,Female,24.024640657084188,Canada
+Rugby Sevens,Female,25.138945927446954,Canada
+Rugby Sevens,Female,24.35318275154004,United States
+Rugby Sevens,Female,27.969883641341546,United States
+Rugby Sevens,Female,26.258726899383984,United States
+Rugby Sevens,Female,26.195756331279945,United States
+Rugby Sevens,Female,33.36618754277892,United States
+Rugby Sevens,Female,33.437371663244356,United States
+Rugby Sevens,Female,29.9958932238193,United States
+Rugby Sevens,Female,26.42299794661191,United States
+Rugby Sevens,Female,28.654346338124572,United States
+Rugby Sevens,Female,32.832306639288156,United States
+Rugby Sevens,Female,28.5968514715948,United States
+Rugby Sevens,Female,29.79876796714579,United States
+Shooting,Female,37.69199178644764,Serbia
+Shooting,Male,40.336755646817245,Serbia
+Shooting,Female,24.490075290896645,Türkiye
+Shooting,Male,51.58110882956879,Türkiye
+Shooting,Female,22.45037645448323,India
+Shooting,Male,22.836413415468858,India
+Swimming,Male,28.681724845995895,Great Britain
+Swimming,Male,24.54757015742642,Great Britain
+Swimming,Male,24.914442162902123,Great Britain
+Swimming,Male,24.249144421629023,Great Britain
+Swimming,Male,21.623545516769337,Great Britain
+Swimming,Male,27.238877481177276,Great Britain
+Swimming,Male,24.396988364134156,United States
+Swimming,Male,23.529089664613277,United States
+Swimming,Male,28.711841204654345,United States
+Swimming,Male,21.10335386721424,United States
+Swimming,Male,22.765229295003422,United States
+Swimming,Male,21.10335386721424,United States
+Swimming,Male,24.199863107460644,United States
+Swimming,Male,20.955509924709105,Australia
+Swimming,Male,28.05201916495551,Australia
+Swimming,Male,19.156741957563312,Australia
+Swimming,Male,22.146475017111566,Australia
+Swimming,Male,21.08145106091718,Australia
+Swimming,Male,24.240930869267626,Australia
+Table Tennis,Male,24.22450376454483,China
+Table Tennis,Female,23.73990417522245,China
+Table Tennis,Male,24.462696783025326,DPR Korea
+Table Tennis,Female,22.95687885010267,DPR Korea
+Table Tennis,Male,27.526351813826146,Korea
+Table Tennis,Female,20.073921971252567,Korea
+Diving,Female,18.888432580424368,China
+Diving,Female,17.347022587268995,China
+Diving,Female,19.709787816564,DPR Korea
+Diving,Female,23.318275154004105,DPR Korea
+Diving,Female,19.887748117727583,Great Britain
+Diving,Female,24.84873374401095,Great Britain
+Fencing,Male,35.26351813826147,Korea
+Fencing,Male,27.835728952772072,Korea
+Fencing,Male,23.87953456536619,Korea
+Fencing,Male,24.95277207392197,Korea
+Fencing,Male,37.71663244353183,Hungary
+Fencing,Male,34.54620123203286,Hungary
+Fencing,Male,31.49075975359343,Hungary
+Fencing,Male,22.72416153319644,Hungary
+Fencing,Male,38.945927446954144,France
+Fencing,Male,25.38261464750171,France
+Fencing,Male,24.317590691307323,France
+Fencing,Male,27.38945927446954,France
+Rowing,Male,30.20123203285421,Netherlands
+Rowing,Male,24.673511293634498,Netherlands
+Rowing,Male,30.376454483230663,Netherlands
+Rowing,Male,32.25462012320329,Netherlands
+Rowing,Male,26.699520876112253,Italy
+Rowing,Male,29.645448323066393,Italy
+Rowing,Male,26.050650239561943,Italy
+Rowing,Male,27.080082135523615,Italy
+Rowing,Male,28.971937029431896,Poland
+Rowing,Male,30.477754962354553,Poland
+Rowing,Male,31.397672826830938,Poland
+Rowing,Male,25.182751540041068,Poland
+Rowing,Female,22.611909650924023,Great Britain
+Rowing,Female,25.12251882272416,Great Britain
+Rowing,Female,26.2943189596167,Great Britain
+Rowing,Female,30.798083504449007,Great Britain
+Rowing,Female,28.580424366872005,Netherlands
+Rowing,Female,27.460643394934976,Netherlands
+Rowing,Female,30.940451745379878,Netherlands
+Rowing,Female,27.082819986310746,Netherlands
+Rowing,Female,24.698151950718685,Germany
+Rowing,Female,25.672826830937716,Germany
+Rowing,Female,25.204654346338124,Germany
+Rowing,Female,27.449691991786448,Germany
+Fencing,Female,21.51129363449692,United States
+Fencing,Female,30.130047912388775,United States
+Fencing,Female,30.039698836413415,United States
+Fencing,Female,21.77138945927447,United States
+Fencing,Female,36.153319644079396,Italy
+Fencing,Female,22.71047227926078,Italy
+Fencing,Female,32.29568788501027,Italy
+Fencing,Female,30.472279260780287,Italy
+Fencing,Female,24.95003422313484,Japan
+Fencing,Female,22.67488021902806,Japan
+Fencing,Female,27.488021902806295,Japan
+Fencing,Female,27.43874058863792,Japan
+Rowing,Male,24.725530458590008,Romania
+Rowing,Male,28.99110198494182,Romania
+Rowing,Male,27.60574948665298,Netherlands
+Rowing,Male,33.86721423682409,Netherlands
+Rowing,Male,26.119096509240247,Ireland
+Rowing,Male,31.871321013004792,Ireland
+Rowing,Male,29.39082819986311,United States
+Rowing,Male,26.95687885010267,United States
+Rowing,Male,27.77549623545517,United States
+Rowing,Male,26.888432580424368,United States
+Rowing,Male,26.203969883641342,New Zealand
+Rowing,Male,23.94798083504449,New Zealand
+Rowing,Male,30.324435318275153,New Zealand
+Rowing,Male,25.38261464750171,New Zealand
+Rowing,Male,29.05133470225873,Great Britain
+Rowing,Male,26.65845311430527,Great Britain
+Rowing,Male,28.39151266255989,Great Britain
+Rowing,Male,26.184804928131417,Great Britain
+Rowing,Female,29.568788501026695,New Zealand
+Rowing,Female,33.60438056125941,New Zealand
+Rowing,Female,25.8507871321013,Romania
+Rowing,Female,25.32511978097194,Romania
+Rowing,Female,29.83436002737851,Great Britain
+Rowing,Female,26.584531143052704,Great Britain
+Rowing,Female,36.39698836413415,Netherlands
+Rowing,Female,30.036960985626283,Netherlands
+Rowing,Female,30.822724161533195,Netherlands
+Rowing,Female,23.693360711841205,Netherlands
+Rowing,Female,38.12457221081451,Great Britain
+Rowing,Female,25.607118412046542,Great Britain
+Rowing,Female,29.95482546201232,Great Britain
+Rowing,Female,30.68309377138946,Great Britain
+Rowing,Female,28.150581793292265,New Zealand
+Rowing,Female,30.973305954825463,New Zealand
+Rowing,Female,27.958932238193018,New Zealand
+Rowing,Female,30.62012320328542,New Zealand
+Swimming,Female,22.154688569472963,Australia
+Swimming,Female,19.531827515400412,Australia
+Swimming,Female,28.473648186173854,Australia
+Swimming,Female,25.73579739904175,Australia
+Swimming,Female,20.331279945242983,Australia
+Swimming,Female,23.89869952087611,Australia
+Swimming,Female,21.8507871321013,United States
+Swimming,Female,19.66324435318275,United States
+Swimming,Female,27.99726214921287,United States
+Swimming,Female,17.71663244353183,United States
+Swimming,Female,27.37577002053388,United States
+Swimming,Female,25.776865160848732,United States
+Swimming,Female,17.420944558521562,United States
+Swimming,Female,20.908966461327857,China
+Swimming,Female,16.520191649555098,China
+Swimming,Female,20.856947296372347,China
+Swimming,Female,25.127994524298426,China
+Swimming,Female,22.414784394250514,China
+Swimming,Female,22.51334702258727,China
+Archery,Female,21.136208076659823,Korea
+Archery,Male,32.114989733059545,Korea
+Archery,Female,28.28473648186174,Germany
+Archery,Male,31.15126625598905,Germany
+Archery,Female,20.40520191649555,United States
+Archery,Male,35.761806981519506,United States
+Badminton,Male,27.42778918548939,China
+Badminton,Female,30.42299794661191,China
+Badminton,Male,25.166324435318277,Korea
+Badminton,Female,24.095824777549623,Korea
+Badminton,Male,27.134839151266256,Japan
+Badminton,Female,28.0,Japan
+Diving,Male,21.4072553045859,China
+Diving,Male,22.770704996577688,China
+Diving,Male,25.916495550992472,Mexico
+Diving,Male,20.15605749486653,Mexico
+Diving,Male,24.087611225188226,Great Britain
+Diving,Male,29.503080082135522,Great Britain
+Equestrian,Male,38.68856947296372,Great Britain
+Equestrian,Male,25.048596851471594,Great Britain
+Equestrian,Male,41.503080082135526,Great Britain
+Equestrian,Male,24.788501026694046,Great Britain
+Equestrian,Male,48.79123887748118,United States
+Equestrian,Male,43.592060232717316,United States
+Equestrian,Female,58.71321013004791,United States
+Equestrian,Male,33.60164271047228,United States
+Equestrian,Male,43.709787816563995,France
+Equestrian,Male,43.1129363449692,France
+Equestrian,Male,47.02258726899384,France
+Equestrian,Male,38.10814510609172,France
+Fencing,Male,26.90759753593429,Hungary
+Fencing,Male,24.87337440109514,Hungary
+Fencing,Male,24.643394934976044,Hungary
+Fencing,Male,25.05133470225873,Hungary
+Fencing,Male,26.61738535249829,Japan
+Fencing,Male,37.04859685147159,Japan
+Fencing,Male,30.132785763175907,Japan
+Fencing,Male,26.49965776865161,Japan
+Fencing,Male,42.535249828884325,Czechia
+Fencing,Male,25.136208076659823,Czechia
+Fencing,Male,27.874058863791923,Czechia
+Fencing,Male,32.60780287474333,Czechia
+Rowing,Male,27.68788501026694,Ireland
+Rowing,Male,30.286105407255306,Ireland
+Rowing,Male,29.88637919233402,Italy
+Rowing,Male,27.523613963039015,Italy
+Rowing,Male,25.374401095140314,Greece
+Rowing,Male,23.682409308692677,Greece
+Rowing,Female,31.668720054757017,Great Britain
+Rowing,Female,28.42984257357974,Great Britain
+Rowing,Female,29.19917864476386,Romania
+Rowing,Female,29.57700205338809,Romania
+Rowing,Female,18.855578370978783,Greece
+Rowing,Female,28.88158795345654,Greece
+Rowing,Male,34.724161533196444,Croatia
+Rowing,Male,35.997262149212865,Croatia
+Rowing,Male,30.17659137577002,Great Britain
+Rowing,Male,29.859000684462696,Great Britain
+Rowing,Male,30.858316221765914,Switzerland
+Rowing,Male,25.399041752224505,Switzerland
+Rowing,Female,29.04312114989733,Netherlands
+Rowing,Female,29.319644079397673,Netherlands
+Rowing,Female,30.403832991101986,Romania
+Rowing,Female,26.581793292265573,Romania
+Rowing,Female,32.205338809034906,Australia
+Rowing,Female,27.88501026694045,Australia
+Sailing,Male,30.600958247775495,Spain
+Sailing,Male,30.193018480492814,Spain
+Sailing,Male,27.071868583162217,New Zealand
+Sailing,Male,27.446954140999317,New Zealand
+Sailing,Male,29.54688569472964,United States
+Sailing,Male,32.158795345653665,United States
+Sailing,Female,26.546201232032853,Netherlands
+Sailing,Female,31.091033538672143,Netherlands
+Sailing,Female,26.570841889117045,Sweden
+Sailing,Female,29.02943189596167,Sweden
+Sailing,Female,37.67830253251198,France
+Sailing,Female,39.605749486652975,France
+Tennis,Female,28.227241615331966,Czechia
+Tennis,Male,23.800136892539356,Czechia
+Tennis,Female,22.847364818617386,China
+Tennis,Male,27.79192334017796,China
+Tennis,Female,32.33401779603012,Canada
+Tennis,Male,23.980835044490075,Canada
+Athletics,Male,21.22108145106092,Netherlands
+Athletics,Male,23.822039698836413,Netherlands
+Athletics,Female,24.438056125941138,Netherlands
+Athletics,Female,25.949349760438057,Netherlands
+Athletics,Female,27.734428473648187,Netherlands
+Athletics,Male,25.11978097193703,Netherlands
+Athletics,Male,27.351129363449694,United States
+Athletics,Male,32.309377138945926,United States
+Athletics,Male,16.56399726214921,United States
+Athletics,Female,19.583846680355922,United States
+Athletics,Female,29.36892539356605,United States
+Athletics,Female,22.458590006844627,United States
+Athletics,Male,23.770020533880903,Great Britain
+Athletics,Male,25.013004791238878,Great Britain
+Athletics,Male,24.892539356605067,Great Britain
+Athletics,Male,20.75564681724846,Great Britain
+Athletics,Female,23.701574264202602,Great Britain
+Athletics,Female,23.613963039014372,Great Britain
+Athletics,Female,28.386036960985628,Great Britain
+Athletics,Female,30.84188911704312,Great Britain
+Athletics,Female,26.973305954825463,Great Britain
+Badminton,Female,27.107460643394933,China
+Badminton,Female,27.091033538672143,China
+Badminton,Female,20.314852840520192,China
+Badminton,Female,21.3305954825462,China
+Badminton,Female,26.094455852156056,Japan
+Badminton,Female,27.2580424366872,Japan
+Equestrian,Female,38.455852156057496,Germany
+Equestrian,Male,37.35523613963039,Germany
+Equestrian,Female,55.030800821355236,Germany
+Equestrian,Male,29.79876796714579,Germany
+Equestrian,Male,34.168377823408626,Denmark
+Equestrian,Female,32.580424366872,Denmark
+Equestrian,Female,30.8145106091718,Denmark
+Equestrian,Female,31.772758384668034,Denmark
+Equestrian,Female,28.470910335386723,Great Britain
+Equestrian,Male,57.09240246406571,Great Britain
+Equestrian,Female,44.37782340862423,Great Britain
+Equestrian,Male,44.19712525667351,Great Britain
+Fencing,Female,33.908281998631075,Ukraine
+Fencing,Female,31.27173169062286,Ukraine
+Fencing,Female,32.10951403148528,Ukraine
+Fencing,Female,28.098562628336754,Ukraine
+Fencing,Female,31.51813826146475,Korea
+Fencing,Female,22.954140999315538,Korea
+Fencing,Female,23.972621492128678,Korea
+Fencing,Female,27.000684462696782,Korea
+Fencing,Female,25.697467488021903,Japan
+Fencing,Female,25.478439425051334,Japan
+Fencing,Female,29.11978097193703,Japan
+Fencing,Female,21.859000684462696,Japan
+Judo,Female,25.519507186858316,France
+Judo,Female,29.05681040383299,France
+Judo,Female,26.072553045859,France
+Judo,Female,31.76728268309377,France
+Judo,Female,27.67693360711841,France
+Judo,Female,24.83778234086242,France
+Judo,Female,30.600958247775495,France
+Judo,Male,23.564681724845997,France
+Judo,Male,29.14715947980835,France
+Judo,Male,28.57221081451061,France
+Judo,Male,27.904175222450377,France
+Judo,Male,23.110198494182068,France
+Judo,Male,26.792607802874745,France
+Judo,Male,35.318275154004105,France
+Judo,Female,24.04928131416838,Japan
+Judo,Female,25.809719370294317,Japan
+Judo,Female,31.98631074606434,Japan
+Judo,Female,28.076659822039698,Japan
+Judo,Female,30.31895961670089,Japan
+Judo,Female,24.06297056810404,Japan
+Judo,Female,29.930184804928132,Japan
+Judo,Male,26.978781656399725,Japan
+Judo,Male,32.93908281998631,Japan
+Judo,Male,28.295687885010267,Japan
+Judo,Male,23.926078028747433,Japan
+Judo,Male,30.798083504449007,Japan
+Judo,Male,22.401095140314855,Japan
+Judo,Male,28.432580424366872,Japan
+Judo,Female,25.420944558521562,Brazil
+Judo,Female,32.271047227926076,Brazil
+Judo,Female,36.83504449007529,Brazil
+Judo,Female,26.20123203285421,Brazil
+Judo,Male,26.614647501711158,Brazil
+Judo,Male,24.501026694045173,Brazil
+Judo,Male,29.963039014373717,Brazil
+Judo,Male,23.734428473648187,Brazil
+Judo,Male,28.418891170431213,Brazil
+Judo,Male,37.22655715263518,Brazil
+Judo,Female,21.61806981519507,Korea
+Judo,Female,28.046543463381244,Korea
+Judo,Female,28.553045859000683,Korea
+Judo,Female,23.63586584531143,Korea
+Judo,Female,24.566735112936346,Korea
+Judo,Female,30.46132785763176,Korea
+Judo,Male,30.354551676933607,Korea
+Judo,Male,32.251882272416154,Korea
+Judo,Male,25.281314168377822,Korea
+Judo,Male,22.119096509240247,Korea
+Judo,Male,23.915126625598905,Korea
+Rowing,Male,29.423682409308693,Great Britain
+Rowing,Male,30.32991101984942,Great Britain
+Rowing,Male,29.22108145106092,Great Britain
+Rowing,Male,30.746064339493497,Great Britain
+Rowing,Male,27.04722792607803,Great Britain
+Rowing,Male,26.026009582477755,Great Britain
+Rowing,Male,30.069815195071868,Great Britain
+Rowing,Male,31.82751540041068,Great Britain
+Rowing,Male,30.086242299794662,Great Britain
+Rowing,Male,26.855578370978783,Netherlands
+Rowing,Male,25.347022587268995,Netherlands
+Rowing,Male,29.136208076659823,Netherlands
+Rowing,Male,36.44900752908966,Netherlands
+Rowing,Male,25.492128678986994,Netherlands
+Rowing,Male,28.804928131416837,Netherlands
+Rowing,Male,32.851471594798085,Netherlands
+Rowing,Male,31.485284052019164,Netherlands
+Rowing,Female,33.51403148528405,Netherlands
+Rowing,Male,26.90485968514716,United States
+Rowing,Male,25.144421629021217,United States
+Rowing,Male,25.218343600273784,United States
+Rowing,Male,24.49281314168378,United States
+Rowing,Male,27.38398357289528,United States
+Rowing,Male,24.73100616016427,United States
+Rowing,Male,27.017111567419576,United States
+Rowing,Male,26.469541409993155,United States
+Rowing,Male,28.16974674880219,United States
+Rowing,Female,24.83778234086242,Romania
+Rowing,Female,26.581793292265573,Romania
+Rowing,Female,25.8507871321013,Romania
+Rowing,Female,25.09514031485284,Romania
+Rowing,Female,25.308692676249144,Romania
+Rowing,Female,27.121149897330596,Romania
+Rowing,Female,30.403832991101986,Romania
+Rowing,Female,25.32511978097194,Romania
+Rowing,Female,21.527720739219713,Romania
+Rowing,Female,35.04722792607803,Canada
+Rowing,Female,27.619438740588638,Canada
+Rowing,Female,23.01163586584531,Canada
+Rowing,Female,33.3388090349076,Canada
+Rowing,Female,26.91854893908282,Canada
+Rowing,Female,26.874743326488705,Canada
+Rowing,Female,28.229979466119097,Canada
+Rowing,Female,22.412046543463383,Canada
+Rowing,Female,35.95345653661875,Canada
+Rowing,Female,27.67145790554415,Great Britain
+Rowing,Female,30.190280629705683,Great Britain
+Rowing,Female,24.799452429842574,Great Britain
+Rowing,Female,29.730321697467488,Great Britain
+Rowing,Female,25.949349760438057,Great Britain
+Rowing,Female,26.548939082819988,Great Britain
+Rowing,Female,30.46132785763176,Great Britain
+Rowing,Female,28.824093086926762,Great Britain
+Rowing,Male,35.68240930869268,Great Britain
+Swimming,Female,22.47501711156742,United States
+Swimming,Male,26.444900752908968,United States
+Swimming,Male,27.958932238193018,United States
+Swimming,Female,27.66050650239562,United States
+Swimming,Male,31.080082135523615,United States
+Swimming,Female,21.650924024640656,United States
+Swimming,Male,29.084188911704313,United States
+Swimming,Female,21.505817932922657,United States
+Swimming,Male,28.95277207392197,China
+Swimming,Female,20.383299110198493,China
+Swimming,Female,26.286105407255306,China
+Swimming,Male,19.991786447638603,China
+Swimming,Male,25.21013004791239,China
+Swimming,Female,22.51334702258727,China
+Swimming,Female,18.82819986310746,Australia
+Swimming,Male,25.574264202600958,Australia
+Swimming,Female,30.190280629705683,Australia
+Swimming,Male,26.102669404517453,Australia
+Swimming,Female,23.055441478439427,Australia
+Swimming,Female,20.331279945242983,Australia
+Swimming,Male,25.117043121149898,Australia
+Swimming,Male,23.02258726899384,Australia
+Tennis,Male,36.681724845995895,Australia
+Tennis,Male,36.01916495550992,Australia
+Tennis,Male,34.12731006160164,United States
+Tennis,Male,40.37234770704997,United States
+Tennis,Male,26.759753593429156,United States
+Tennis,Male,27.208761122518823,United States
+Badminton,Male,28.971937029431896,Chinese Taipei
+Badminton,Male,29.53593429158111,Chinese Taipei
+Badminton,Male,23.668720054757017,China
+Badminton,Male,23.236139630390145,China
+Badminton,Male,27.433264887063654,Malaysia
+Badminton,Male,26.45311430527036,Malaysia
+Fencing,Male,27.616700889801507,Japan
+Fencing,Male,20.5968514715948,Japan
+Fencing,Male,26.650239561943874,Japan
+Fencing,Male,25.796030116358658,Japan
+Fencing,Male,27.006160164271048,Italy
+Fencing,Male,22.86652977412731,Italy
+Fencing,Male,24.290212183436,Italy
+Fencing,Male,34.691307323750856,Italy
+Fencing,Male,32.84052019164955,France
+Fencing,Male,31.11567419575633,France
+Fencing,Male,36.101300479123886,France
+Fencing,Male,28.380561259411362,France
+Swimming,Male,28.95277207392197,China
+Swimming,Male,25.21013004791239,China
+Swimming,Male,22.001368925393567,China
+Swimming,Male,19.991786447638603,China
+Swimming,Male,24.0,China
+Swimming,Male,23.51813826146475,United States
+Swimming,Male,26.444900752908968,United States
+Swimming,Male,17.481177275838466,United States
+Swimming,Male,21.533196440793976,United States
+Swimming,Male,27.958932238193018,United States
+Swimming,Male,31.080082135523615,United States
+Swimming,Male,29.084188911704313,United States
+Swimming,Male,23.67145790554415,France
+Swimming,Male,22.209445585215605,France
+Swimming,Male,24.243668720054757,France
+Swimming,Male,17.790554414784395,France
+Swimming,Male,25.27310061601643,France
+Swimming,Male,33.719370294318956,France
+Swimming,Female,23.50718685831622,United States
+Swimming,Female,20.550308008213552,United States
+Swimming,Female,17.71663244353183,United States
+Swimming,Female,22.704996577686515,United States
+Swimming,Female,21.650924024640656,United States
+Swimming,Female,27.471594798083505,United States
+Swimming,Female,22.47501711156742,United States
+Swimming,Female,21.505817932922657,United States
+Swimming,Female,18.82819986310746,Australia
+Swimming,Female,20.05475701574264,Australia
+Swimming,Female,24.01368925393566,Australia
+Swimming,Female,22.403832991101986,Australia
+Swimming,Female,30.190280629705683,Australia
+Swimming,Female,23.055441478439427,Australia
+Swimming,Female,20.331279945242983,Australia
+Swimming,Female,27.356605065023956,Australia
+Swimming,Female,26.543463381245722,China
+Swimming,Female,20.383299110198493,China
+Swimming,Female,18.90485968514716,China
+Swimming,Female,21.508555783709788,China
+Swimming,Female,19.969883641341546,China
+Swimming,Female,22.51334702258727,China
+Swimming,Female,26.286105407255306,China
+Tennis,Female,37.25941136208077,Italy
+Tennis,Female,28.57494866529774,Italy
+Tennis,Female,17.259411362080765,AIN
+Tennis,Female,20.331279945242983,AIN
+Tennis,Female,26.581793292265573,Spain
+Tennis,Female,27.813826146475016,Spain
+3x3 Basketball,Male,38.784394250513344,Netherlands
+3x3 Basketball,Male,36.38329911019849,Netherlands
+3x3 Basketball,Male,33.1088295687885,Netherlands
+3x3 Basketball,Male,27.65776865160849,Netherlands
+3x3 Basketball,Male,26.403832991101986,France
+3x3 Basketball,Male,27.173169062286107,France
+3x3 Basketball,Male,28.01368925393566,France
+3x3 Basketball,Male,26.321697467488022,France
+3x3 Basketball,Male,27.8466803559206,Lithuania
+3x3 Basketball,Male,37.65366187542779,Lithuania
+3x3 Basketball,Male,30.209445585215605,Lithuania
+3x3 Basketball,Male,34.70773442847365,Lithuania
+3x3 Basketball,Female,32.785763175906915,Germany
+3x3 Basketball,Female,32.0848733744011,Germany
+3x3 Basketball,Female,23.293634496919918,Germany
+3x3 Basketball,Female,20.27378507871321,Germany
+3x3 Basketball,Female,31.972621492128678,Spain
+3x3 Basketball,Female,39.592060232717316,Spain
+3x3 Basketball,Female,33.56331279945243,Spain
+3x3 Basketball,Female,25.363449691991786,Spain
+3x3 Basketball,Female,30.73511293634497,United States
+3x3 Basketball,Female,30.836413415468858,United States
+3x3 Basketball,Female,22.89390828199863,United States
+3x3 Basketball,Female,24.257357973990416,United States
+Cycling Track,Female,31.50171115674196,Great Britain
+Cycling Track,Female,21.609856262833677,Great Britain
+Cycling Track,Female,25.908281998631075,Great Britain
+Cycling Track,Female,25.415468856947296,Great Britain
+Cycling Track,Female,24.58590006844627,New Zealand
+Cycling Track,Female,26.064339493497606,New Zealand
+Cycling Track,Female,23.82751540041068,New Zealand
+Cycling Track,Female,23.515400410677618,New Zealand
+Cycling Track,Female,26.872005475701574,Germany
+Cycling Track,Female,24.566735112936346,Germany
+Cycling Track,Female,26.546201232032853,Germany
+Cycling Track,Female,23.411362080766597,Germany
+Shooting,Female,41.054072553045856,Italy
+Shooting,Male,29.404517453798768,Italy
+Shooting,Female,23.025325119780973,United States
+Shooting,Male,35.370294318959616,United States
+Shooting,Female,20.0,China
+Shooting,Male,28.016427104722794,China
+Triathlon,Male,25.089664613278575,Germany
+Triathlon,Female,25.66735112936345,Germany
+Triathlon,Male,28.210814510609172,Germany
+Triathlon,Female,28.098562628336754,Germany
+Triathlon,Male,27.405886379192335,United States
+Triathlon,Female,33.30321697467488,United States
+Triathlon,Male,30.858316221765914,United States
+Triathlon,Female,26.46132785763176,United States
+Triathlon,Male,26.45037645448323,Great Britain
+Triathlon,Female,30.38193018480493,Great Britain
+Triathlon,Male,27.058179329226558,Great Britain
+Triathlon,Female,32.596851471594796,Great Britain
+Cycling Track,Male,35.89596167008898,Netherlands
+Cycling Track,Male,27.38398357289528,Netherlands
+Cycling Track,Male,31.378507871321013,Netherlands
+Cycling Track,Male,23.367556468172484,Netherlands
+Cycling Track,Male,27.274469541409992,Great Britain
+Cycling Track,Male,25.05407255304586,Great Britain
+Cycling Track,Male,20.93908281998631,Great Britain
+Cycling Track,Male,27.460643394934976,Great Britain
+Cycling Track,Male,31.93702943189596,Australia
+Cycling Track,Male,25.29226557152635,Australia
+Cycling Track,Male,24.139630390143736,Australia
+Cycling Track,Male,24.459958932238195,Australia
+Artistic Swimming,Female,27.260780287474333,China
+Artistic Swimming,Female,24.83778234086242,China
+Artistic Swimming,Female,27.540041067761805,China
+Artistic Swimming,Female,24.71457905544148,China
+Artistic Swimming,Female,27.540041067761805,China
+Artistic Swimming,Female,22.70773442847365,China
+Artistic Swimming,Female,26.43668720054757,China
+Artistic Swimming,Female,27.238877481177276,China
+Artistic Swimming,Female,26.206707734428473,China
+Artistic Swimming,Female,27.66324435318275,United States
+Artistic Swimming,Female,20.657084188911703,United States
+Artistic Swimming,Female,18.795345653661876,United States
+Artistic Swimming,Female,20.410677618069816,United States
+Artistic Swimming,Female,18.127310061601644,United States
+Artistic Swimming,Female,25.256673511293634,United States
+Artistic Swimming,Female,22.819986310746064,United States
+Artistic Swimming,Female,21.965776865160848,United States
+Artistic Swimming,Female,18.62012320328542,United States
+Artistic Swimming,Female,21.746748802190282,Spain
+Artistic Swimming,Female,23.750855578370977,Spain
+Artistic Swimming,Female,29.60164271047228,Spain
+Artistic Swimming,Female,23.742642026009584,Spain
+Artistic Swimming,Female,28.27378507871321,Spain
+Artistic Swimming,Female,18.012320328542096,Spain
+Artistic Swimming,Female,19.655030800821354,Spain
+Artistic Swimming,Female,17.724845995893222,Spain
+Artistic Swimming,Female,24.019164955509925,Spain
+Athletics,Male,30.12183436002738,Spain
+Athletics,Female,28.257357973990416,Spain
+Athletics,Male,29.010266940451746,Ecuador
+Athletics,Female,24.17248459958932,Ecuador
+Athletics,Male,33.57426420260096,Australia
+Athletics,Female,26.458590006844627,Australia
+Cycling Track,Male,22.510609171800137,Australia
+Cycling Track,Male,26.195756331279945,Australia
+Cycling Track,Male,28.53388090349076,Australia
+Cycling Track,Male,25.295003422313485,Australia
+Cycling Track,Male,23.15126625598905,Australia
+Cycling Track,Male,23.9315537303217,Great Britain
+Cycling Track,Male,28.681724845995895,Great Britain
+Cycling Track,Male,32.832306639288156,Great Britain
+Cycling Track,Male,27.704312114989733,Great Britain
+Cycling Track,Male,25.869952087611225,Great Britain
+Cycling Track,Male,28.93634496919918,Great Britain
+Cycling Track,Male,29.88637919233402,Italy
+Cycling Track,Male,28.019164955509925,Italy
+Cycling Track,Male,30.48596851471595,Italy
+Cycling Track,Male,23.83299110198494,Italy
+Cycling Track,Male,22.376454483230663,Italy
+Cycling Track,Female,20.98836413415469,United States
+Cycling Track,Female,30.600958247775495,United States
+Cycling Track,Female,31.619438740588638,United States
+Cycling Track,Female,29.60438056125941,United States
+Cycling Track,Female,30.105407255304584,United States
+Cycling Track,Female,27.581108829568787,United States
+Cycling Track,Female,26.740588637919235,New Zealand
+Cycling Track,Female,23.572895277207394,New Zealand
+Cycling Track,Female,25.437371663244353,New Zealand
+Cycling Track,Female,24.895277207392198,New Zealand
+Cycling Track,Female,22.633812457221083,New Zealand
+Cycling Track,Female,34.001368925393564,Great Britain
+Cycling Track,Female,29.900068446269678,Great Britain
+Cycling Track,Female,27.342915811088297,Great Britain
+Cycling Track,Female,29.136208076659823,Great Britain
+Cycling Track,Female,25.308692676249144,Great Britain
+Cycling Track,Female,26.962354551676935,Great Britain
+Canoe Sprint,Male,30.902121834360027,China
+Canoe Sprint,Male,22.439425051334702,China
+Canoe Sprint,Male,21.976728268309376,Italy
+Canoe Sprint,Male,29.516769336071185,Italy
+Canoe Sprint,Male,24.32580424366872,Spain
+Canoe Sprint,Male,21.245722108145106,Spain
+Canoe Sprint,Male,30.636550308008214,Germany
+Canoe Sprint,Male,27.66324435318275,Germany
+Canoe Sprint,Male,25.149897330595483,Germany
+Canoe Sprint,Male,30.99520876112252,Germany
+Canoe Sprint,Male,28.01368925393566,Australia
+Canoe Sprint,Male,20.955509924709105,Australia
+Canoe Sprint,Male,25.738535249828885,Australia
+Canoe Sprint,Male,23.805612594113622,Australia
+Canoe Sprint,Male,39.742642026009584,Spain
+Canoe Sprint,Male,30.652977412731005,Spain
+Canoe Sprint,Male,29.828884325804243,Spain
+Canoe Sprint,Male,33.94113620807666,Spain
+Canoe Sprint,Female,35.10746064339494,New Zealand
+Canoe Sprint,Female,24.484599589322382,New Zealand
+Canoe Sprint,Female,23.121149897330596,New Zealand
+Canoe Sprint,Female,20.594113620807665,New Zealand
+Canoe Sprint,Female,26.765229295003422,Germany
+Canoe Sprint,Female,24.854209445585216,Germany
+Canoe Sprint,Female,21.388090349075977,Germany
+Canoe Sprint,Female,30.316221765913756,Germany
+Canoe Sprint,Female,26.012320328542096,Hungary
+Canoe Sprint,Female,20.66255989048597,Hungary
+Canoe Sprint,Female,34.93771389459275,Hungary
+Canoe Sprint,Female,24.28747433264887,Hungary
+Football,Male,35.227926078028744,Morocco
+Football,Male,25.741273100616016,Morocco
+Football,Male,22.31895961670089,Morocco
+Football,Male,20.514715947980836,Morocco
+Football,Male,23.433264887063654,Morocco
+Football,Male,22.715947980835043,Morocco
+Football,Male,19.45516769336071,Morocco
+Football,Male,20.227241615331966,Morocco
+Football,Male,28.164271047227928,Morocco
+Football,Male,20.292950034223136,Morocco
+Football,Male,22.584531143052704,Morocco
+Football,Male,23.26899383983573,Morocco
+Football,Male,22.431211498973305,Morocco
+Football,Male,22.20123203285421,Morocco
+Football,Male,21.15811088295688,Morocco
+Football,Male,22.622861054072555,Morocco
+Football,Male,23.175906913073238,Morocco
+Football,Male,22.518822724161534,Morocco
+Football,Male,23.288158795345655,Morocco
+Hockey,Male,26.798083504449007,Netherlands
+Hockey,Male,28.42984257357974,Netherlands
+Hockey,Male,26.258726899383984,Netherlands
+Hockey,Male,27.57015742642026,Netherlands
+Hockey,Male,29.371663244353183,Netherlands
+Hockey,Male,32.309377138945926,Netherlands
+Hockey,Male,25.97946611909651,Netherlands
+Hockey,Male,23.84394250513347,Netherlands
+Hockey,Male,25.689253935660506,Netherlands
+Hockey,Male,27.991786447638603,Netherlands
+Hockey,Male,24.799452429842574,Netherlands
+Hockey,Male,26.015058179329227,Netherlands
+Hockey,Male,28.643394934976044,Netherlands
+Hockey,Male,27.50718685831622,Netherlands
+Hockey,Male,36.39972621492129,Netherlands
+Hockey,Male,24.810403832991103,Netherlands
+Hockey,Male,22.04243668720055,Netherlands
+Hockey,Male,23.159479808350444,Netherlands
+Hockey,Male,32.328542094455855,Germany
+Hockey,Male,31.73990417522245,Germany
+Hockey,Male,29.22655715263518,Germany
+Hockey,Male,29.631759069130734,Germany
+Hockey,Male,27.564681724845997,Germany
+Hockey,Male,26.069815195071868,Germany
+Hockey,Male,28.112251882272417,Germany
+Hockey,Male,24.87337440109514,Germany
+Hockey,Male,28.993839835728952,Germany
+Hockey,Male,31.969883641341546,Germany
+Hockey,Male,30.61738535249829,Germany
+Hockey,Male,24.281998631074607,Germany
+Hockey,Male,33.95482546201232,Germany
+Hockey,Male,37.426420260095824,Germany
+Hockey,Male,24.205338809034906,Germany
+Hockey,Male,26.77344284736482,Germany
+Hockey,Male,22.88021902806297,Germany
+Hockey,Male,21.730321697467488,Germany
+Hockey,Male,28.03832991101985,India
+Hockey,Male,24.9637234770705,India
+Hockey,Male,32.09856262833676,India
+Hockey,Male,25.856262833675565,India
+Hockey,Male,29.51403148528405,India
+Hockey,Male,23.241615331964407,India
+Hockey,Male,29.516769336071185,India
+Hockey,Male,28.569472963723477,India
+Hockey,Male,30.666666666666668,India
+Hockey,Male,36.23271731690623,India
+Hockey,Male,27.613963039014372,India
+Hockey,Male,27.00889801505818,India
+Hockey,Male,26.253251197809718,India
+Hockey,Male,31.227926078028748,India
+Hockey,Male,24.432580424366872,India
+Hockey,Male,27.655030800821354,India
+Sailing,Female,30.34360027378508,Austria
+Sailing,Male,34.275154004106774,Austria
+Sailing,Male,28.6652977412731,Japan
+Sailing,Female,33.93018480492813,Japan
+Sailing,Male,39.227926078028744,Sweden
+Sailing,Female,29.190965092402465,Sweden
+Sailing,Male,32.3668720054757,Italy
+Sailing,Female,37.13620807665982,Italy
+Sailing,Male,30.04791238877481,Argentina
+Sailing,Female,27.137577002053387,Argentina
+Sailing,Male,28.484599589322382,New Zealand
+Sailing,Female,30.023271731690624,New Zealand
+Athletics,Male,23.854893908281998,Canada
+Athletics,Male,27.923340177960302,Canada
+Athletics,Male,28.955509924709105,Canada
+Athletics,Male,32.18069815195072,Canada
+Athletics,Male,29.724845995893222,Canada
+Athletics,Male,32.31211498973306,Canada
+Athletics,Male,23.496235455167692,South Africa
+Athletics,Male,19.509924709103355,South Africa
+Athletics,Male,20.618754277891856,South Africa
+Athletics,Male,30.861054072553046,South Africa
+Athletics,Male,18.47501711156742,South Africa
+Athletics,Male,23.21423682409309,Great Britain
+Athletics,Male,22.039698836413415,Great Britain
+Athletics,Male,29.05407255304586,Great Britain
+Athletics,Male,34.913073237508556,Great Britain
+Athletics,Male,30.33264887063655,Great Britain
+Athletics,Female,21.45927446954141,United States
+Athletics,Female,28.435318275154003,United States
+Athletics,Female,23.44147843942505,United States
+Athletics,Female,24.35318275154004,United States
+Athletics,Female,25.519507186858316,United States
+Athletics,Female,27.64955509924709,United States
+Athletics,Female,28.659822039698838,Great Britain
+Athletics,Female,28.933607118412045,Great Britain
+Athletics,Female,22.21492128678987,Great Britain
+Athletics,Female,26.622861054072555,Great Britain
+Athletics,Female,27.923340177960302,Great Britain
+Athletics,Female,30.62012320328542,Great Britain
+Athletics,Female,30.261464750171115,Germany
+Athletics,Female,31.578370978781656,Germany
+Athletics,Female,25.420944558521562,Germany
+Athletics,Female,27.693360711841205,Germany
+Athletics,Female,28.249144421629023,Germany
+Beach Volleyball,Female,26.83915126625599,Brazil
+Beach Volleyball,Female,26.001368925393567,Brazil
+Beach Volleyball,Female,31.808350444900753,Canada
+Beach Volleyball,Female,32.0848733744011,Canada
+Beach Volleyball,Female,31.928815879534564,Switzerland
+Beach Volleyball,Female,28.799452429842574,Switzerland
+Canoe Sprint,Male,25.149897330595483,Germany
+Canoe Sprint,Male,27.66324435318275,Germany
+Canoe Sprint,Male,28.290212183436,Hungary
+Canoe Sprint,Male,30.015058179329227,Hungary
+Canoe Sprint,Male,25.645448323066393,Australia
+Canoe Sprint,Male,25.163586584531142,Australia
+Canoe Sprint,Female,32.45722108145106,China
+Canoe Sprint,Female,23.247091033538673,China
+Canoe Sprint,Female,27.34839151266256,Ukraine
+Canoe Sprint,Female,26.302532511978097,Ukraine
+Canoe Sprint,Female,22.21218343600274,Canada
+Canoe Sprint,Female,28.38877481177276,Canada
+Canoe Sprint,Female,35.10746064339494,New Zealand
+Canoe Sprint,Female,24.484599589322382,New Zealand
+Canoe Sprint,Female,34.93771389459275,Hungary
+Canoe Sprint,Female,24.28747433264887,Hungary
+Canoe Sprint,Female,26.765229295003422,Germany
+Canoe Sprint,Female,24.854209445585216,Germany
+Canoe Sprint,Female,26.012320328542096,Hungary
+Canoe Sprint,Female,20.66255989048597,Hungary
+Cycling Track,Female,23.59753593429158,Italy
+Cycling Track,Female,25.10609171800137,Italy
+Cycling Track,Female,34.001368925393564,Great Britain
+Cycling Track,Female,29.900068446269678,Great Britain
+Cycling Track,Female,20.503764544832308,Netherlands
+Cycling Track,Female,22.885694729637233,Netherlands
+Football,Male,23.173169062286107,Spain
+Football,Male,21.117043121149898,Spain
+Football,Male,24.53388090349076,Spain
+Football,Male,23.55920602327173,Spain
+Football,Male,17.52498288843258,Spain
+Football,Male,21.130732375085557,Spain
+Football,Male,22.220396988364133,Spain
+Football,Male,22.49965776865161,Spain
+Football,Male,24.50924024640657,Spain
+Football,Male,23.033538672142367,Spain
+Football,Male,21.22655715263518,Spain
+Football,Male,23.561943874058862,Spain
+Football,Male,23.24435318275154,Spain
+Football,Male,22.677618069815196,Spain
+Football,Male,23.014373716632445,Spain
+Football,Male,23.184120465434635,Spain
+Football,Male,23.906913073237508,Spain
+Football,Male,20.240930869267626,Spain
+Football,Male,20.095824777549623,Spain
+Football,Male,20.9637234770705,Spain
+Football,Male,23.471594798083505,Spain
+Football,Male,20.914442162902123,Spain
+Football,Male,21.481177275838466,France
+Football,Male,21.623545516769337,France
+Football,Male,22.69678302532512,France
+Football,Male,24.306639288158795,France
+Football,Male,22.21218343600274,France
+Football,Male,23.208761122518823,France
+Football,Male,22.636550308008214,France
+Football,Male,22.431211498973305,France
+Football,Male,22.529774127310063,France
+Football,Male,33.18001368925393,France
+Football,Male,19.16221765913758,France
+Football,Male,22.04243668720055,France
+Football,Male,22.85284052019165,France
+Football,Male,27.093771389459274,France
+Football,Male,22.239561943874058,France
+Football,Male,19.392197125256672,France
+Football,Male,20.815879534565365,France
+Football,Male,20.958247775496236,France
+Football,Male,22.21492128678987,France
+Football,Male,21.21013004791239,France
+Football,Male,21.776865160848732,France
+Football,Female,29.508555783709788,Germany
+Football,Female,24.76659822039699,Germany
+Football,Female,32.32032854209446,Germany
+Football,Female,25.71937029431896,Germany
+Football,Female,34.29158110882957,Germany
+Football,Female,25.141683778234086,Germany
+Football,Female,26.718685831622178,Germany
+Football,Female,24.11772758384668,Germany
+Football,Female,23.523613963039015,Germany
+Football,Female,26.496919917864478,Germany
+Football,Female,33.322381930184804,Germany
+Football,Female,33.81245722108145,Germany
+Football,Female,32.70636550308008,Germany
+Football,Female,26.833675564681723,Germany
+Football,Female,25.084188911704313,Germany
+Football,Female,21.793292265571527,Germany
+Football,Female,23.64955509924709,Germany
+Football,Female,22.98425735797399,Germany
+Football,Female,28.254620123203285,Germany
+Football,Female,24.473648186173854,Germany
+Hockey,Female,28.90075290896646,Netherlands
+Hockey,Female,23.397672826830938,Netherlands
+Hockey,Female,25.672826830937716,Netherlands
+Hockey,Female,25.51129363449692,Netherlands
+Hockey,Female,28.73100616016427,Netherlands
+Hockey,Female,24.70362765229295,Netherlands
+Hockey,Female,26.795345653661876,Netherlands
+Hockey,Female,24.5968514715948,Netherlands
+Hockey,Female,30.27789185489391,Netherlands
+Hockey,Female,28.358658453114305,Netherlands
+Hockey,Female,27.592060232717316,Netherlands
+Hockey,Female,27.00889801505818,Netherlands
+Hockey,Female,24.520191649555098,Netherlands
+Hockey,Female,26.140999315537304,Netherlands
+Hockey,Female,27.701574264202602,Netherlands
+Hockey,Female,29.51403148528405,Netherlands
+Hockey,Female,24.928131416837783,Netherlands
+Hockey,Female,29.779603011635867,China
+Hockey,Female,30.5160848733744,China
+Hockey,Female,25.916495550992472,China
+Hockey,Female,25.924709103353866,China
+Hockey,Female,27.50718685831622,China
+Hockey,Female,23.838466803559207,China
+Hockey,Female,25.17180013689254,China
+Hockey,Female,28.854209445585216,China
+Hockey,Female,25.13347022587269,China
+Hockey,Female,23.915126625598905,China
+Hockey,Female,26.951403148528406,China
+Hockey,Female,21.650924024640656,China
+Hockey,Female,27.457905544147845,China
+Hockey,Female,28.654346338124572,China
+Hockey,Female,24.856947296372347,China
+Hockey,Female,21.51129363449692,China
+Hockey,Female,23.255304585900067,China
+Hockey,Female,27.367556468172484,Argentina
+Hockey,Female,28.39151266255989,Argentina
+Hockey,Female,21.508555783709788,Argentina
+Hockey,Female,28.83504449007529,Argentina
+Hockey,Female,31.581108829568787,Argentina
+Hockey,Female,29.281314168377822,Argentina
+Hockey,Female,26.60917180013689,Argentina
+Hockey,Female,35.997262149212865,Argentina
+Hockey,Female,33.0321697467488,Argentina
+Hockey,Female,21.815195071868583,Argentina
+Hockey,Female,27.041752224503764,Argentina
+Hockey,Female,20.109514031485283,Argentina
+Hockey,Female,19.342915811088297,Argentina
+Hockey,Female,33.82067077344285,Argentina
+Hockey,Female,25.530458590006845,Argentina
+Hockey,Female,18.157426420260094,Argentina
+Table Tennis,Male,27.523613963039015,China
+Table Tennis,Male,35.780971937029435,China
+Table Tennis,Male,24.22450376454483,China
+Table Tennis,Male,26.95687885010267,Sweden
+Table Tennis,Male,32.988364134154686,Sweden
+Table Tennis,Male,22.455852156057496,Sweden
+Table Tennis,Male,29.76865160848734,France
+Table Tennis,Male,20.930869267624914,France
+Table Tennis,Male,17.88637919233402,France
+Volleyball,Male,37.28952772073922,United States
+Volleyball,Male,32.407939767282684,United States
+Volleyball,Male,31.23340177960301,United States
+Volleyball,Male,27.310061601642712,United States
+Volleyball,Male,37.39082819986311,United States
+Volleyball,Male,30.90759753593429,United States
+Volleyball,Male,28.878850102669404,United States
+Volleyball,Male,27.293634496919918,United States
+Volleyball,Male,36.42984257357974,United States
+Volleyball,Male,31.159479808350444,United States
+Volleyball,Male,34.93771389459275,United States
+Volleyball,Male,39.214236824093085,United States
+Volleyball,Male,27.405886379192335,United States
+Artistic Swimming,Female,27.540041067761805,China
+Artistic Swimming,Female,27.540041067761805,China
+Artistic Swimming,Female,22.699520876112253,Great Britain
+Artistic Swimming,Female,23.411362080766597,Great Britain
+Artistic Swimming,Female,25.399041752224505,Netherlands
+Artistic Swimming,Female,25.399041752224505,Netherlands
+Athletics,Male,24.175222450376456,United States
+Athletics,Male,27.014373716632445,United States
+Athletics,Male,27.351129363449694,United States
+Athletics,Male,26.0041067761807,United States
+Athletics,Male,25.702943189596166,United States
+Athletics,Male,26.661190965092402,United States
+Athletics,Male,32.309377138945926,United States
+Athletics,Male,16.56399726214921,United States
+Athletics,Male,25.207392197125255,Botswana
+Athletics,Male,20.465434633812457,Botswana
+Athletics,Male,25.117043121149898,Botswana
+Athletics,Male,22.146475017111566,Botswana
+Athletics,Male,28.424366872005475,Botswana
+Athletics,Male,21.152635181382614,Botswana
+Athletics,Male,23.770020533880903,Great Britain
+Athletics,Male,24.78302532511978,Great Britain
+Athletics,Male,25.83709787816564,Great Britain
+Athletics,Male,25.013004791238878,Great Britain
+Athletics,Male,29.765913757700204,Great Britain
+Athletics,Male,20.75564681724846,Great Britain
+Athletics,Male,20.087611225188226,Great Britain
+Athletics,Female,19.583846680355922,United States
+Athletics,Female,20.739219712525667,United States
+Athletics,Female,28.399726214921287,United States
+Athletics,Female,32.40246406570842,United States
+Athletics,Female,24.50924024640657,United States
+Athletics,Female,29.36892539356605,United States
+Athletics,Female,24.985626283367555,United States
+Athletics,Female,27.64955509924709,United States
+Athletics,Female,24.438056125941138,Netherlands
+Athletics,Female,31.890485968514717,Netherlands
+Athletics,Female,25.949349760438057,Netherlands
+Athletics,Female,27.734428473648187,Netherlands
+Athletics,Female,26.00684462696783,Netherlands
+Athletics,Female,27.159479808350444,Netherlands
+Athletics,Female,20.292950034223136,Netherlands
+Athletics,Female,23.701574264202602,Great Britain
+Athletics,Female,21.248459958932237,Great Britain
+Athletics,Female,23.613963039014372,Great Britain
+Athletics,Female,28.386036960985628,Great Britain
+Athletics,Female,28.386036960985628,Great Britain
+Athletics,Female,31.422313483915126,Great Britain
+Athletics,Female,30.84188911704312,Great Britain
+Athletics,Female,26.973305954825463,Great Britain
+Basketball,Male,36.38329911019849,United States
+Basketball,Male,22.989733059548254,United States
+Basketball,Male,39.58658453114305,United States
+Basketball,Male,35.83846680355921,United States
+Basketball,Male,30.083504449007528,United States
+Basketball,Male,24.421629021218344,United States
+Basketball,Male,26.414784394250514,United States
+Basketball,Male,30.379192334017795,United States
+Basketball,Male,34.13826146475017,United States
+Basketball,Male,27.039014373716633,United States
+Basketball,Male,31.392197125256672,United States
+Basketball,Male,27.753593429158112,United States
+Basketball,Male,26.012320328542096,France
+Basketball,Male,35.630390143737166,France
+Basketball,Male,34.365503080082135,France
+Basketball,Male,28.62422997946612,France
+Basketball,Male,27.67419575633128,France
+Basketball,Male,31.756331279945243,France
+Basketball,Male,37.1088295687885,France
+Basketball,Male,28.840520191649556,France
+Basketball,Male,32.09856262833676,France
+Basketball,Male,20.57494866529774,France
+Basketball,Male,21.99041752224504,France
+Basketball,Male,20.016427104722794,France
+Basketball,Male,25.609856262833677,Serbia
+Basketball,Male,24.295687885010267,Serbia
+Basketball,Male,21.14715947980835,Serbia
+Basketball,Male,31.953456536618756,Serbia
+Basketball,Male,27.55920602327173,Serbia
+Basketball,Male,29.763175906913073,Serbia
+Basketball,Male,29.44832306639288,Serbia
+Basketball,Male,30.548939082819988,Serbia
+Basketball,Male,29.401779603011637,Serbia
+Basketball,Male,29.53867214236824,Serbia
+Basketball,Male,29.76865160848734,Serbia
+Basketball,Male,29.587953456536617,Serbia
+Beach Volleyball,Male,22.614647501711158,Sweden
+Beach Volleyball,Male,22.822724161533195,Sweden
+Beach Volleyball,Male,30.48870636550308,Germany
+Beach Volleyball,Male,29.2621492128679,Germany
+Beach Volleyball,Male,27.082819986310746,Norway
+Beach Volleyball,Male,28.66255989048597,Norway
+Cycling Track,Male,26.080766598220396,Portugal
+Cycling Track,Male,27.904175222450377,Portugal
+Cycling Track,Male,29.88637919233402,Italy
+Cycling Track,Male,35.4798083504449,Italy
+Cycling Track,Male,27.362080766598222,Denmark
+Cycling Track,Male,39.25530458590007,Denmark
+Football,Female,36.28199863107461,United States
+Football,Female,26.075290896646134,United States
+Football,Female,20.802190280629706,United States
+Football,Female,24.13141683778234,United States
+Football,Female,22.20123203285421,United States
+Football,Female,33.94113620807666,United States
+Football,Female,32.07939767282683,United States
+Football,Female,31.197809719370294,United States
+Football,Female,26.258726899383984,United States
+Football,Female,30.184804928131417,United States
+Football,Female,23.975359342915812,United States
+Football,Female,25.867214236824093,United States
+Football,Female,23.67419575633128,United States
+Football,Female,30.68309377138946,United States
+Football,Female,19.696098562628336,United States
+Football,Female,29.218343600273784,United States
+Football,Female,25.585215605749486,United States
+Football,Female,28.268309377138944,United States
+Football,Female,23.38398357289528,United States
+Football,Female,25.086926762491444,United States
+Football,Female,27.238877481177276,Brazil
+Football,Female,30.26694045174538,Brazil
+Football,Female,21.182751540041068,Brazil
+Football,Female,33.12251882272416,Brazil
+Football,Female,23.20602327173169,Brazil
+Football,Female,36.8104038329911,Brazil
+Football,Female,24.706365503080082,Brazil
+Football,Female,22.521560574948666,Brazil
+Football,Female,27.704312114989733,Brazil
+Football,Female,38.4476386036961,Brazil
+Football,Female,22.73511293634497,Brazil
+Football,Female,29.253935660506503,Brazil
+Football,Female,27.759069130732374,Brazil
+Football,Female,29.66735112936345,Brazil
+Football,Female,28.251882272416154,Brazil
+Football,Female,27.394934976043807,Brazil
+Football,Female,24.40520191649555,Brazil
+Football,Female,29.0403832991102,Brazil
+Football,Female,19.942505133470227,Brazil
+Football,Female,24.514715947980836,Brazil
+Football,Female,21.883641341546884,Brazil
+Football,Female,37.02395619438741,Brazil
+Handball,Female,34.06160164271047,Norway
+Handball,Female,30.417522245037645,Norway
+Handball,Female,31.41409993155373,Norway
+Handball,Female,33.32511978097194,Norway
+Handball,Female,32.851471594798085,Norway
+Handball,Female,34.12731006160164,Norway
+Handball,Female,33.45927446954141,Norway
+Handball,Female,30.940451745379878,Norway
+Handball,Female,29.620807665982205,Norway
+Handball,Female,44.33949349760438,Norway
+Handball,Female,30.431211498973305,Norway
+Handball,Female,37.81519507186858,Norway
+Handball,Female,34.12731006160164,Norway
+Handball,Female,25.475701574264203,Norway
+Handball,Female,24.54483230663929,Norway
+Handball,Female,30.94866529774127,France
+Handball,Female,26.431211498973305,France
+Handball,Female,28.246406570841888,France
+Handball,Female,29.286789869952088,France
+Handball,Female,31.915126625598905,France
+Handball,Female,31.069130732375086,France
+Handball,Female,35.08555783709788,France
+Handball,Female,29.634496919917865,France
+Handball,Female,27.12662559890486,France
+Handball,Female,28.739219712525667,France
+Handball,Female,23.60848733744011,France
+Handball,Female,32.97467488021903,France
+Handball,Female,28.298425735797398,France
+Handball,Female,25.141683778234086,France
+Handball,Female,21.930184804928132,France
+Handball,Female,21.527720739219713,France
+Handball,Female,28.78028747433265,France
+Handball,Female,34.78713210130048,Denmark
+Handball,Female,34.31074606433949,Denmark
+Handball,Female,26.420260095824776,Denmark
+Handball,Female,29.935660506502394,Denmark
+Handball,Female,32.35044490075291,Denmark
+Handball,Female,29.72210814510609,Denmark
+Handball,Female,27.915126625598905,Denmark
+Handball,Female,28.583162217659137,Denmark
+Handball,Female,26.537987679671456,Denmark
+Handball,Female,32.79123887748118,Denmark
+Handball,Female,31.789185489390828,Denmark
+Handball,Female,26.770704996577688,Denmark
+Handball,Female,24.752908966461327,Denmark
+Handball,Female,31.20602327173169,Denmark
+Handball,Female,24.45722108145106,Denmark
+Table Tennis,Female,30.543463381245722,China
+Table Tennis,Female,23.73990417522245,China
+Table Tennis,Female,25.475701574264203,China
+Table Tennis,Female,24.0684462696783,Japan
+Table Tennis,Female,16.125941136208077,Japan
+Table Tennis,Female,24.298425735797398,Japan
+Table Tennis,Female,20.073921971252567,Korea
+Table Tennis,Female,31.759069130732374,Korea
+Table Tennis,Female,29.251197809719372,Korea
+Volleyball,Male,33.96851471594798,France
+Volleyball,Male,26.42299794661191,France
+Volleyball,Male,31.07460643394935,France
+Volleyball,Male,32.459958932238195,France
+Volleyball,Male,24.804928131416837,France
+Volleyball,Male,27.59479808350445,France
+Volleyball,Male,30.195756331279945,France
+Volleyball,Male,34.75427789185489,France
+Volleyball,Male,30.094455852156056,France
+Volleyball,Male,32.41067761806981,France
+Volleyball,Male,33.46748802190281,France
+Volleyball,Male,33.74674880219028,France
+Volleyball,Male,28.670773442847366,France
+Volleyball,Male,30.091718001368925,Poland
+Volleyball,Male,35.9233401779603,Poland
+Volleyball,Male,31.003422313483917,Poland
+Volleyball,Male,29.190965092402465,Poland
+Volleyball,Male,36.83504449007529,Poland
+Volleyball,Male,27.041752224503764,Poland
+Volleyball,Male,28.043805612594113,Poland
+Volleyball,Male,34.11362080766598,Poland
+Volleyball,Male,30.0041067761807,Poland
+Volleyball,Male,30.324435318275153,Poland
+Volleyball,Male,26.91854893908282,Poland
+Volleyball,Male,25.965776865160848,Poland
+Volleyball,Male,29.842573579739906,Poland
+Volleyball,Female,25.440109514031484,Brazil
+Volleyball,Female,25.806981519507186,Brazil
+Volleyball,Female,35.41409993155373,Brazil
+Volleyball,Female,37.215605749486656,Brazil
+Volleyball,Female,30.313483915126625,Brazil
+Volleyball,Female,34.261464750171115,Brazil
+Volleyball,Female,30.203969883641342,Brazil
+Volleyball,Female,20.317590691307323,Brazil
+Volleyball,Female,33.31690622861054,Brazil
+Volleyball,Female,23.44147843942505,Brazil
+Volleyball,Female,24.396988364134156,Brazil
+Volleyball,Female,28.56399726214921,Brazil
+Volleyball,Female,27.310061601642712,Brazil
+Water Polo,Female,34.5242984257358,Spain
+Water Polo,Female,19.107460643394933,Spain
+Water Polo,Female,31.561943874058862,Spain
+Water Polo,Female,29.114305270362767,Spain
+Water Polo,Female,21.311430527036276,Spain
+Water Polo,Female,26.31895961670089,Spain
+Water Polo,Female,19.756331279945243,Spain
+Water Polo,Female,38.327173169062284,Spain
+Water Polo,Female,28.150581793292265,Spain
+Water Polo,Female,22.466803559206024,Spain
+Water Polo,Female,33.790554414784395,Spain
+Water Polo,Female,24.262833675564682,Spain
+Water Polo,Female,21.927446954141,Spain
+Water Polo,Female,26.20123203285421,Australia
+Water Polo,Female,34.379192334017795,Australia
+Water Polo,Female,32.95003422313484,Australia
+Water Polo,Female,27.969883641341546,Australia
+Water Polo,Female,19.748117727583846,Australia
+Water Polo,Female,23.67419575633128,Australia
+Water Polo,Female,22.598220396988363,Australia
+Water Polo,Female,22.04517453798768,Australia
+Water Polo,Female,33.05133470225873,Australia
+Water Polo,Female,25.60438056125941,Australia
+Water Polo,Female,23.83025325119781,Australia
+Water Polo,Female,29.741273100616016,Australia
+Water Polo,Female,28.83230663928816,Australia
+Water Polo,Female,27.975359342915812,Netherlands
+Water Polo,Female,30.23134839151266,Netherlands
+Water Polo,Female,26.3709787816564,Netherlands
+Water Polo,Female,33.379876796714576,Netherlands
+Water Polo,Female,26.26694045174538,Netherlands
+Water Polo,Female,23.709787816564,Netherlands
+Water Polo,Female,26.830937713894592,Netherlands
+Water Polo,Female,31.422313483915126,Netherlands
+Water Polo,Female,26.55441478439425,Netherlands
+Water Polo,Female,23.668720054757017,Netherlands
+Water Polo,Female,19.956194387405887,Netherlands
+Water Polo,Female,23.077344284736483,Netherlands
+Water Polo,Female,24.366872005475702,Netherlands
+Basketball,Female,30.822724161533195,United States
+Basketball,Female,29.93839835728953,United States
+Basketball,Female,26.652977412731005,United States
+Basketball,Female,29.927446954141,United States
+Basketball,Female,31.813826146475016,United States
+Basketball,Female,27.980835044490075,United States
+Basketball,Female,29.930184804928132,United States
+Basketball,Female,27.854893908281998,United States
+Basketball,Female,42.1409993155373,United States
+Basketball,Female,26.874743326488705,United States
+Basketball,Female,32.303901437371664,United States
+Basketball,Female,33.78781656399726,United States
+Basketball,Female,23.520876112251884,France
+Basketball,Female,25.905544147843944,France
+Basketball,Female,35.5564681724846,France
+Basketball,Female,30.258726899383984,France
+Basketball,Female,23.055441478439427,France
+Basketball,Female,22.90485968514716,France
+Basketball,Female,18.70773442847365,France
+Basketball,Female,27.89322381930185,France
+Basketball,Female,29.686516084873375,France
+Basketball,Female,29.527720739219713,France
+Basketball,Female,20.164271047227928,France
+Basketball,Female,31.096509240246405,France
+Basketball,Female,21.95482546201232,Australia
+Basketball,Female,28.577686516084874,Australia
+Basketball,Female,30.130047912388775,Australia
+Basketball,Female,33.97125256673511,Australia
+Basketball,Female,27.890485968514717,Australia
+Basketball,Female,24.969199178644764,Australia
+Basketball,Female,35.082819986310746,Australia
+Basketball,Female,35.252566735112936,Australia
+Basketball,Female,26.088980150581794,Australia
+Basketball,Female,19.88501026694045,Australia
+Basketball,Female,43.22518822724162,Australia
+Basketball,Female,36.03285420944559,Australia
+Handball,Male,35.61670088980151,Denmark
+Handball,Male,30.351813826146476,Denmark
+Handball,Male,28.95003422313484,Denmark
+Handball,Male,26.518822724161534,Denmark
+Handball,Male,33.1170431211499,Denmark
+Handball,Male,27.394934976043807,Denmark
+Handball,Male,28.05475701574264,Denmark
+Handball,Male,43.00068446269678,Denmark
+Handball,Male,25.478439425051334,Denmark
+Handball,Male,39.578370978781656,Denmark
+Handball,Male,36.77754962354552,Denmark
+Handball,Male,25.338809034907598,Denmark
+Handball,Male,30.392881587953458,Denmark
+Handball,Male,29.842573579739906,Denmark
+Handball,Male,22.55441478439425,Denmark
+Handball,Male,23.638603696098563,Denmark
+Handball,Male,22.258726899383984,Germany
+Handball,Male,26.7378507871321,Germany
+Handball,Male,25.3305954825462,Germany
+Handball,Male,26.420260095824776,Germany
+Handball,Male,21.4839151266256,Germany
+Handball,Male,24.229979466119097,Germany
+Handball,Male,24.37782340862423,Germany
+Handball,Male,22.258726899383984,Germany
+Handball,Male,35.06091718001369,Germany
+Handball,Male,33.99315537303217,Germany
+Handball,Male,33.4154688569473,Germany
+Handball,Male,31.310061601642712,Germany
+Handball,Male,28.361396303901437,Germany
+Handball,Male,34.535249828884325,Germany
+Handball,Male,20.889801505817932,Germany
+Handball,Male,29.037645448323065,Germany
+Handball,Male,33.55783709787816,Spain
+Handball,Male,36.48459958932238,Spain
+Handball,Male,31.62217659137577,Spain
+Handball,Male,33.51950718685831,Spain
+Handball,Male,35.917864476386036,Spain
+Handball,Male,29.256673511293634,Spain
+Handball,Male,30.2943189596167,Spain
+Handball,Male,28.197125256673512,Spain
+Handball,Male,27.236139630390145,Spain
+Handball,Male,25.574264202600958,Spain
+Handball,Male,29.478439425051334,Spain
+Handball,Male,27.077344284736483,Spain
+Handball,Male,27.564681724845997,Spain
+Handball,Male,23.345653661875428,Spain
+Handball,Male,22.028747433264886,Spain
+Volleyball,Female,28.177960301163587,Italy
+Volleyball,Female,37.56331279945243,Italy
+Volleyball,Female,26.039698836413415,Italy
+Volleyball,Female,30.494182067077343,Italy
+Volleyball,Female,28.281998631074607,Italy
+Volleyball,Female,29.56331279945243,Italy
+Volleyball,Female,25.620807665982205,Italy
+Volleyball,Female,22.885694729637233,Italy
+Volleyball,Female,21.371663244353183,Italy
+Volleyball,Female,22.622861054072555,Italy
+Volleyball,Female,30.444900752908968,Italy
+Volleyball,Female,24.306639288158795,Italy
+Volleyball,Female,21.935660506502394,Italy
+Volleyball,Female,25.270362765229294,United States
+Volleyball,Female,25.527720739219713,United States
+Volleyball,Female,32.101300479123886,United States
+Volleyball,Female,27.241615331964407,United States
+Volleyball,Female,28.859685147159478,United States
+Volleyball,Female,28.82135523613963,United States
+Volleyball,Female,27.003422313483917,United States
+Volleyball,Female,29.423682409308693,United States
+Volleyball,Female,37.79329226557152,United States
+Volleyball,Female,30.600958247775495,United States
+Volleyball,Female,25.793292265571527,United States
+Volleyball,Female,29.297741273100616,United States
+Volleyball,Female,31.72347707049966,United States
+Water Polo,Male,26.951403148528406,Serbia
+Water Polo,Male,30.127310061601644,Serbia
+Water Polo,Male,32.39698836413415,Serbia
+Water Polo,Male,31.041752224503764,Serbia
+Water Polo,Male,33.61259411362081,Serbia
+Water Polo,Male,32.51745379876797,Serbia
+Water Polo,Male,27.028062970568104,Serbia
+Water Polo,Male,27.537303216974674,Serbia
+Water Polo,Male,29.700205338809035,Serbia
+Water Polo,Male,33.43463381245722,Serbia
+Water Polo,Male,30.967830253251197,Serbia
+Water Polo,Male,23.033538672142367,Serbia
+Water Polo,Male,22.87748117727584,Serbia
+Water Polo,Male,33.5523613963039,Croatia
+Water Polo,Male,27.32375085557837,Croatia
+Water Polo,Male,27.707049965776864,Croatia
+Water Polo,Male,37.100616016427104,Croatia
+Water Polo,Male,36.83504449007529,Croatia
+Water Polo,Male,30.255989048596852,Croatia
+Water Polo,Male,31.433264887063654,Croatia
+Water Polo,Male,22.60917180013689,Croatia
+Water Polo,Male,33.51950718685831,Croatia
+Water Polo,Male,38.26967830253251,Croatia
+Water Polo,Male,25.530458590006845,Croatia
+Water Polo,Male,27.43600273785079,Croatia
+Water Polo,Male,29.738535249828885,Croatia
+Water Polo,Male,22.68309377138946,United States
+Water Polo,Male,27.104722792607802,United States
+Water Polo,Male,25.270362765229294,United States
+Water Polo,Male,32.62149212867899,United States
+Water Polo,Male,24.57221081451061,United States
+Water Polo,Male,28.72826830937714,United States
+Water Polo,Male,26.691307323750856,United States
+Water Polo,Male,25.8507871321013,United States
+Water Polo,Male,30.90759753593429,United States
+Water Polo,Male,21.32511978097194,United States
+Water Polo,Male,18.532511978097194,United States
+Water Polo,Male,29.19917864476386,United States
+Water Polo,Male,29.308692676249144,United States
+Rhythmic Gymnastics,Female,19.928815879534564,China
+Rhythmic Gymnastics,Female,25.984941820670773,China
+Rhythmic Gymnastics,Female,23.359342915811087,China
+Rhythmic Gymnastics,Female,24.459958932238195,China
+Rhythmic Gymnastics,Female,19.394934976043807,China
+Rhythmic Gymnastics,Female,18.425735797399042,Israel
+Rhythmic Gymnastics,Female,18.039698836413415,Israel
+Rhythmic Gymnastics,Female,20.123203285420946,Israel
+Rhythmic Gymnastics,Female,19.68788501026694,Israel
+Rhythmic Gymnastics,Female,19.709787816564,Israel
+Rhythmic Gymnastics,Female,26.203969883641342,Italy
+Rhythmic Gymnastics,Female,23.619438740588638,Italy
+Rhythmic Gymnastics,Female,27.942505133470227,Italy
+Rhythmic Gymnastics,Female,23.044490075290895,Italy
+Rhythmic Gymnastics,Female,21.900068446269678,Italy
