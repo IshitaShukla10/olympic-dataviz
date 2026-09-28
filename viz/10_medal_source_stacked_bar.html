@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How the top 6 nations built their medal count</title>
+<script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@2/plotly.min.js"></script>
+<style>
+  body { margin:0; font-family:-apple-system,Segoe UI,Roboto,sans-serif; background:#0b0e14; color:#e8ecf1; }
+  header { padding:20px 24px 4px; }
+  h1 { font-size:1.3rem; margin:0 0 4px; }
+  p.sub { margin:0; color:#9aa4b2; font-size:0.95rem; max-width:760px; }
+  #chart { width:100%; height:640px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>How the top 6 nations built their medal count</h1>
+  <p class="sub">Top 6 Paris 2024 medal-winning countries, broken down by their top 8 disciplines. Hover a segment to see the exact count.</p>
+</header>
+<div id="chart"></div>
+<script>
+const data = {"countries": ["United States", "China", "Great Britain", "France", "Australia", "Japan"], "series": {"Swimming": [28, 12, 5, 7, 18, 1], "Athletics": [34, 4, 10, 1, 7, 1], "Artistic Gymnastics": [9.0, 9.0, 2.0, 0.0, 0.0, 4.0], "Wrestling": [7.0, 5.0, 0.0, 0.0, 0.0, 11.0], "Diving": [1.0, 11.0, 5.0, 0.0, 1.0, 1.0], "Judo": [0.0, 1.0, 0.0, 10.0, 0.0, 8.0], "Shooting": [5.0, 10.0, 2.0, 1.0, 1.0, 0.0], "Cycling Track": [2.0, 0.0, 8.0, 1.0, 5.0, 0.0]}};
+
+const palette = ['#4dabf7','#ffd43b','#e64980','#40c057','#fa5252','#845ef7','#22b8cf','#ff922b'];
+const traces = Object.keys(data.series).map((disc, i) => ({
+  x: data.countries, y: data.series[disc], name: disc, type: 'bar',
+  marker: { color: palette[i % palette.length] }
+}));
+Plotly.newPlot('chart', traces, {
+  barmode: 'stack',
+  paper_bgcolor: '#0b0e14', plot_bgcolor: '#0b0e14',
+  font: { color: '#e8ecf1', size: 14 },
+  yaxis: { title: 'Medals', gridcolor: '#222' },
+  legend: { orientation: 'h', y: -0.15 },
+  margin: { t: 20 },
+}, {responsive: true});
+
+</script>
+</body>
+</html>

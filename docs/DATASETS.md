@@ -23,22 +23,35 @@ not yet processed by `clean_data.py`.
 
 ## Reference data — economic & social indicators
 
-**`data/raw/gdp_pop_ref.csv`** and **`data/raw/flfp_ref.csv`** are
-**placeholder figures for prototyping only** — approximate values assembled
-from general knowledge, not pulled from an official release. They must be
-replaced before the report is written. Real sources to use instead:
-
-| Indicator | Source | Series code |
+| File | Status | Source |
 |---|---|---|
-| GDP (nominal, current US$) | World Bank Open Data | `NY.GDP.MKTP.CD` |
-| Population, total | World Bank Open Data | `SP.POP.TOTL` |
-| Female labour-force participation rate (% ages 15+) | World Bank Open Data | `SL.TLF.CACT.FE.ZS` |
+| `data/raw/wb_gdp_raw.csv` | **Real data** | World Bank `NY.GDP.MKTP.CD` (GDP, current US$), via the [datasets/gdp](https://github.com/datasets/gdp) mirror, 1960-2023 |
+| `data/raw/wb_population_raw.csv` | **Real data** | World Bank `SP.POP.TOTL` (total population), via the [datasets/population](https://github.com/datasets/population) mirror, 1960-2023 |
+| `data/raw/flfp_ref.csv` | **Placeholder — still needs replacing** | Approximate values from general knowledge, not an official release |
 
-Download as CSV from https://data.worldbank.org/ (or the API at
-`https://api.worldbank.org/v2/country/all/indicator/<code>?format=json`),
-save into `data/raw/`, and update `scripts/clean_data.py`'s
-`build_medals_total_with_econ()` / `build_female_medal_share_vs_flfp()` to
-read the real files instead of the `*_ref.csv` placeholders.
+`build_medals_total_with_econ()` in `scripts/clean_data.py` uses the latest
+available year per country (mostly 2023) from the two real World Bank files
+above, joined onto `medals_total_2024.csv` via the `PARIS_TO_WB_NAME` mapping
+(World Bank naming differs from the Olympics dataset's, e.g. "Korea, Rep."
+vs "Korea", "Turkiye" vs "Türkiye").
+
+**Countries dropped from `medals_total_with_econ.csv`** (no World Bank
+match): `AIN` and `EOR` (not countries — neutral/refugee teams), `Chinese
+Taipei` (Taiwan is excluded from the World Bank's country classifications
+entirely), `DPR Korea` (population data exists but GDP is not reported), and
+`Puerto Rico` (US territory, not separately listed). 87 of 92 Paris 2024
+medal-winning countries/teams are covered.
+
+**Female labour-force participation is still a placeholder.** No reachable
+mirror for World Bank `SL.TLF.CACT.FE.ZS` was found from this environment
+(data.worldbank.org, the World Bank API, and datahub.io are all network-
+blocked here). To fix it: download the indicator as CSV yourself from
+https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS, save it as
+`data/raw/wb_flfp_raw.csv` in the same `Country Name, Country Code, Year,
+Value` shape as the GDP/population files, and update
+`build_female_medal_share_vs_flfp()` in `scripts/clean_data.py` to read it
+(mirror the `_latest_wb_value()` / `PARIS_TO_WB_NAME` pattern already used
+for GDP).
 
 ## Country-name mismatches to watch for
 

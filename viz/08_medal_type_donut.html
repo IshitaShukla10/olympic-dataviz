@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Individual, pairs, or team?</title>
+<script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@2/plotly.min.js"></script>
+<style>
+  body { margin:0; font-family:-apple-system,Segoe UI,Roboto,sans-serif; background:#0b0e14; color:#e8ecf1; }
+  header { padding:20px 24px 4px; }
+  h1 { font-size:1.3rem; margin:0 0 4px; }
+  p.sub { margin:0; color:#9aa4b2; font-size:0.95rem; max-width:760px; }
+  #chart { width:100%; height:640px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Individual, pairs, or team?</h1>
+  <p class="sub">Paris 2024 medallists by event type. 'Individual' includes head-to-head sports like judo and boxing.</p>
+</header>
+<div id="chart"></div>
+<script>
+const data = {"labels": ["Team", "Individual", "Pairs"], "values": [1481, 760, 74]};
+
+Plotly.newPlot('chart', [{
+  labels: data.labels, values: data.values, type: 'pie', hole: 0.55,
+  marker: { colors: ['#4dabf7', '#ffd43b', '#868e96'] },
+  textinfo: 'label+percent', hovertemplate: '%{label}: %{value} medallists<extra></extra>'
+}], {
+  paper_bgcolor: '#0b0e14', plot_bgcolor: '#0b0e14',
+  font: { color: '#e8ecf1', size: 14 },
+  showlegend: false,
+  margin: { t: 20 },
+}, {responsive: true});
+
+</script>
+</body>
+</html>

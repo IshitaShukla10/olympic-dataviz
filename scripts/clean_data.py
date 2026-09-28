@@ -166,29 +166,148 @@ def build_age_by_sport():
 
 
 def build_medal_type_split():
+    """Individual vs pairs vs team medals, by medallist count. event_type
+    codes: ATH/HATH = single athlete (incl. head-to-head sports like judo),
+    COUP/HCOUP = pairs, TEAM/HTEAM = full team events."""
     m = pd.read_csv(RAW / "medallists_2024.csv")
-    tab = m.event_type.value_counts().reset_index()
-    tab.columns = ["event_type", "n_medallists"]
+    group = {
+        "ATH": "Individual",
+        "HATH": "Individual",
+        "COUP": "Pairs",
+        "HCOUP": "Pairs",
+        "TEAM": "Team",
+        "HTEAM": "Team",
+    }
+    tab = m.event_type.map(group).value_counts().reset_index()
+    tab.columns = ["category", "n_medallists"]
     tab.to_csv(CLEAN / "medal_type_split.csv", index=False)
     return tab
 
 
-def build_medals_total_with_econ():
-    """Joins Paris 2024 medal totals with an economic reference table.
+def build_country_discipline_heatmap():
+    """Medal share by discipline for the top 15 medal-winning countries."""
+    m = pd.read_csv(RAW / "medals_2024.csv")
+    top_countries = m.country.value_counts().head(15).index.tolist()
+    sub = m[m.country.isin(top_countries)]
+    tab = sub.groupby(["country", "discipline"]).size().reset_index(name="n")
+    # keep only disciplines where at least one of the top countries won 3+
+    # medals, otherwise the heatmap is mostly empty cells
+    keep_disciplines = tab[tab.n >= 3].discipline.unique()
+    tab = tab[tab.discipline.isin(keep_disciplines)]
+    tab.to_csv(CLEAN / "country_discipline_heatmap.csv", index=False)
+    return tab
 
-    IMPORTANT: data/raw/gdp_pop_ref.csv and flfp_ref.csv are APPROXIMATE
-    figures assembled from general knowledge for early prototyping only.
-    Before this goes in the report, replace them with the real World Bank
-    indicators (NY.GDP.MKTP.CD, SP.POP.TOTL, SL.TLF.CACT.FE.ZS) -- see
-    docs/PLAN.md for the exact series to pull.
+
+def build_winning_margin():
+    """Gold-to-silver winning margin, as a % of the winning time, by decade.
+    Restricted to TIME events with a clean numeric value_unit (sprint/swim/
+    track events; value_unit is hundredths of a second here, consistent
+    with the parsing used in build_sprint_trend)."""
+    r, h = load_results()
+    med = r[r.medal_type.isin(["GOLD", "SILVER"]) & (r.value_type == "TIME")].copy()
+
+    def to_seconds(v):
+        try:
+            return float(v) / 100.0
+        except (TypeError, ValueError):
+            return np.nan
+
+    med["seconds"] = med.value_unit.apply(to_seconds)
+    med = med.dropna(subset=["seconds", "game_year"])
+    # one row per (event, games) with gold and silver time
+    piv = med.pivot_table(
+        index=["slug_game", "game_year", "discipline_title", "event_title"],
+        columns="medal_type",
+        values="seconds",
+        aggfunc="first",
+    ).reset_index()
+    piv = piv.dropna(subset=["GOLD", "SILVER"])
+    piv = piv[piv.GOLD > 0]
+    piv["margin_pct"] = (piv.SILVER - piv.GOLD) / piv.GOLD * 100
+    # drop implausible outliers (data-entry artifacts: negative or >50% margins)
+    piv = piv[(piv.margin_pct > 0) & (piv.margin_pct < 50)]
+    piv["decade"] = (piv.game_year // 10 * 10).astype(int)
+    out = piv[["decade", "game_year", "discipline_title", "event_title", "margin_pct"]]
+    out.to_csv(CLEAN / "winning_margin.csv", index=False)
+    return out
+
+
+# Paris-2024 country name -> World Bank "Country Name" (World Bank uses its
+# own naming/abbreviation conventions, e.g. "Korea, Rep." not "Korea", and
+# excludes a few entities entirely -- see docs/DATASETS.md for what's missing
+# and why.
+PARIS_TO_WB_NAME = {
+    "Great Britain": "United Kingdom",
+    "Korea": "Korea, Rep.",
+    "DPR Korea": "Korea, Dem. People's Rep.",
+    "IR Iran": "Iran, Islamic Rep.",
+    "Egypt": "Egypt, Arab Rep.",
+    "Hong Kong, China": "Hong Kong SAR, China",
+    "Kyrgyzstan": "Kyrgyz Republic",
+    "Republic of Moldova": "Moldova",
+    "Saint Lucia": "St. Lucia",
+    "Slovakia": "Slovak Republic",
+    "Türkiye": "Turkiye",
+    "Côte d'Ivoire": "Cote d'Ivoire",
+    "Czechia": "Czechia",
+    # No World Bank entry exists for these (Taiwan is excluded from the
+    # World Bank's country classifications; AIN/EOR are not countries):
+    # "Chinese Taipei", "AIN", "EOR".
+}
+
+
+def _latest_wb_value(df, country_name):
+    """Latest non-null value for a country from a World Bank
+    Country/Year/Value CSV (github.com/datasets/gdp or /population mirrors
+    of the World Bank's own NY.GDP.MKTP.CD / SP.POP.TOTL indicators)."""
+    sub = df[(df["Country Name"] == country_name) & df.Value.notna()]
+    if sub.empty:
+        return np.nan, np.nan
+    row = sub.sort_values("Year").iloc[-1]
+    return row.Value, int(row.Year)
+
+
+def build_medals_total_with_econ():
+    """Joins Paris 2024 medal totals with real World Bank GDP and population
+    data (latest available year per country, generally 2023).
+
+    Source: World Bank NY.GDP.MKTP.CD (GDP, current US$) and SP.POP.TOTL
+    (total population), via the github.com/datasets/gdp and
+    github.com/datasets/population mirrors -- see docs/DATASETS.md.
+
+    Female labour-force participation (flfp_ref.csv) is still a placeholder
+    -- no reachable mirror for SL.TLF.CACT.FE.ZS was found; see
+    docs/DATASETS.md for how to fill it in with the real World Bank file.
     """
     mt = pd.read_csv(RAW / "medals_total_2024.csv")
-    ref = pd.read_csv(RAW / "gdp_pop_ref.csv")
-    name_fix = {"Hong Kong, China": "Hong Kong"}
-    mt["ref_name"] = mt.country.map(lambda x: name_fix.get(x, x))
-    df = mt.merge(ref, left_on="ref_name", right_on="country", how="left", suffixes=("", "_ref"))
-    df = df.dropna(subset=["gdp_usd_billion", "population_million"])
-    df["gdp_per_capita_usd"] = df.gdp_usd_billion * 1e3 / df.population_million
+    gdp = pd.read_csv(RAW / "wb_gdp_raw.csv")
+    pop = pd.read_csv(RAW / "wb_population_raw.csv")
+
+    mt["wb_name"] = mt.country.map(lambda x: PARIS_TO_WB_NAME.get(x, x))
+    records = []
+    for _, row in mt.iterrows():
+        gdp_val, gdp_year = _latest_wb_value(gdp, row.wb_name)
+        pop_val, pop_year = _latest_wb_value(pop, row.wb_name)
+        records.append(
+            {
+                "gdp_usd": gdp_val,
+                "gdp_year": gdp_year,
+                "population": pop_val,
+                "population_year": pop_year,
+            }
+        )
+    df = pd.concat([mt.reset_index(drop=True), pd.DataFrame(records)], axis=1)
+    missing = df[df.gdp_usd.isna() | df.population.isna()][["country"]]
+    if not missing.empty:
+        print(
+            "No World Bank GDP/population match for:",
+            missing.country.tolist(),
+            "(excluded from medals_total_with_econ.csv -- see docs/DATASETS.md)",
+        )
+    df = df.dropna(subset=["gdp_usd", "population"])
+    df["gdp_usd_billion"] = df.gdp_usd / 1e9
+    df["population_million"] = df.population / 1e6
+    df["gdp_per_capita_usd"] = df.gdp_usd / df.population
     df["medals_per_million"] = df.Total / df.population_million
     df.to_csv(CLEAN / "medals_total_with_econ.csv", index=False)
     return df
@@ -214,6 +333,8 @@ def main():
     build_host_boost(r, h)
     build_age_by_sport()
     build_medal_type_split()
+    build_country_discipline_heatmap()
+    build_winning_margin()
     build_medals_total_with_econ()
     build_female_medal_share_vs_flfp()
     print("Wrote clean CSVs to", CLEAN)

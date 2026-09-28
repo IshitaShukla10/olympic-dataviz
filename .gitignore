@@ -1,8 +1,13 @@
-# Raw source data is large (~45MB) and publicly re-downloadable from Kaggle;
-# keep the repo lean and commit only the cleaned, chart-ready CSVs.
+# Raw Kaggle Olympics source data is large (~45MB) and publicly
+# re-downloadable; keep the repo lean and commit only the cleaned,
+# chart-ready CSVs. The World Bank reference files are small and are the
+# actual cited source for the report, so those ARE committed.
 data/raw/*.csv
 data/raw/*.pkl
 !data/raw/.gitkeep
+!data/raw/wb_gdp_raw.csv
+!data/raw/wb_population_raw.csv
+!data/raw/flfp_ref.csv
 
 __pycache__/
 *.pyc

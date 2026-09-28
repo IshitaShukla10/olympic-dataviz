@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Where each country's medals come from</title>
+<script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@2/plotly.min.js"></script>
+<style>
+  body { margin:0; font-family:-apple-system,Segoe UI,Roboto,sans-serif; background:#0b0e14; color:#e8ecf1; }
+  header { padding:20px 24px 4px; }
+  h1 { font-size:1.3rem; margin:0 0 4px; }
+  p.sub { margin:0; color:#9aa4b2; font-size:0.95rem; max-width:760px; }
+  #chart { width:100%; height:640px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Where each country's medals come from</h1>
+  <p class="sub">Top 15 Paris 2024 medal-winning countries x their strongest disciplines. Rows sorted by total medals; look for the bright single-column countries (specialists) vs. the spread-out rows (broad programmes).</p>
+</header>
+<div id="chart"></div>
+<script>
+const data = {"z": [[28.0, 34.0, 0.0, 9.0, 2.0, 5.0, 4.0, 2.0, 1.0, 7.0, 1.0, 1.0, 1.0, 1.0], [12.0, 4.0, 1.0, 9.0, 0.0, 10.0, 0.0, 0.0, 2.0, 5.0, 11.0, 5.0, 0.0, 0.0], [5.0, 10.0, 0.0, 2.0, 8.0, 2.0, 0.0, 8.0, 0.0, 0.0, 5.0, 1.0, 2.0, 4.0], [7.0, 1.0, 10.0, 0.0, 1.0, 1.0, 7.0, 0.0, 0.0, 0.0, 0.0, 3.0, 2.0, 3.0], [18.0, 7.0, 0.0, 0.0, 5.0, 1.0, 0.0, 1.0, 2.0, 0.0, 1.0, 2.0, 2.0, 3.0], [1.0, 1.0, 8.0, 4.0, 0.0, 0.0, 5.0, 0.0, 0.0, 11.0, 1.0, 0.0, 1.0, 0.0], [5.0, 3.0, 1.0, 3.0, 3.0, 4.0, 5.0, 2.0, 1.0, 0.0, 0.0, 0.0, 2.0, 1.0], [1.0, 0.0, 5.0, 0.0, 0.0, 6.0, 3.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0], [2.0, 6.0, 0.0, 0.0, 5.0, 0.0, 0.0, 8.0, 0.0, 0.0, 0.0, 0.0, 4.0, 0.0], [2.0, 4.0, 1.0, 0.0, 2.0, 0.0, 0.0, 2.0, 4.0, 0.0, 0.0, 1.0, 0.0, 2.0], [8.0, 5.0, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0, 2.0, 0.0, 1.0, 1.0, 0.0, 0.0], [0.0, 2.0, 0.0, 0.0, 5.0, 0.0, 0.0, 4.0, 3.0, 0.0, 0.0, 0.0, 2.0, 1.0], [3.0, 1.0, 0.0, 0.0, 0.0, 1.0, 3.0, 0.0, 7.0, 0.0, 0.0, 0.0, 0.0, 0.0], [0.0, 2.0, 4.0, 4.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0], [0.0, 4.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 1.0, 1.0]], "countries": ["United States", "China", "Great Britain", "France", "Australia", "Japan", "Italy", "Korea", "Netherlands", "Germany", "Canada", "New Zealand", "Hungary", "Brazil", "Spain"], "disciplines": ["Swimming", "Athletics", "Judo", "Artistic Gymnastics", "Cycling Track", "Shooting", "Fencing", "Rowing", "Canoe Sprint", "Wrestling", "Diving", "Boxing", "Sailing", "Canoe Slalom"]};
+
+Plotly.newPlot('chart', [{
+  z: data.z, x: data.disciplines, y: data.countries, type: 'heatmap',
+  colorscale: [[0,'#0b0e14'],[0.15,'#1c3a52'],[0.5,'#1c7ed6'],[1,'#ffd43b']],
+  hovertemplate: '%{y} - %{x}: %{z} medals<extra></extra>',
+  colorbar: { title: 'Medals' }
+}], {
+  paper_bgcolor: '#0b0e14', plot_bgcolor: '#0b0e14',
+  font: { color: '#e8ecf1', size: 12 },
+  xaxis: { tickangle: -40 },
+  yaxis: { autorange: 'reversed' },
+  margin: { t: 20, l: 140, b: 120 },
+}, {responsive: true});
+
+</script>
+</body>
+</html>

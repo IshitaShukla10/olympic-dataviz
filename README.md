@@ -10,20 +10,20 @@ what every data file is and where it comes from.
 
 ## Status
 
-Early build: data cleaning pipeline is working, and the first two interactive
-chart prototypes are done. See `viz/` and open the `.html` files directly in
-a browser.
+All 12 taxonomy charts have a working interactive prototype in `viz/` —
+open `viz/index.html` for the full list. GDP and population are real World
+Bank data; female labour-force participation is still a placeholder (see
+`docs/DATASETS.md`).
 
 - [x] Data cleaning pipeline (`scripts/clean_data.py`)
-- [x] Prototype: sprint/marathon winning-time trend (line chart)
-- [x] Prototype: host-nation medal-share boost (grouped bar)
-- [ ] 100% stacked bar — gender share of events over time
-- [ ] Heatmap — country x discipline medal specialisation
-- [ ] Scatter — GDP vs medals, with over/under-performer highlighting
-- [ ] Scatter — female labour-force participation vs female medal share
-- [ ] Violin — medallist age by sport
-- [ ] Donut — individual vs team medal split
-- [ ] Box plot — gold/silver winning-margin by decade
+- [x] Real World Bank GDP + population data (was placeholder)
+- [x] All 10 prototype charts built (line, grouped bar, 100% stacked bar,
+      heatmap, 2x scatter, violin, donut, box plot, stacked bar — covers
+      all 12 taxonomy chart types across the two-act story)
+- [ ] Replace female labour-force participation placeholder with real
+      World Bank `SL.TLF.CACT.FE.ZS` data (see `docs/DATASETS.md`)
+- [ ] Style pass — one consistent palette/typography across all charts,
+      legible at 720p
 - [ ] Script + storyboard, timed to 3 min/presenter
 - [ ] Recording, editing, final export at <=720p
 

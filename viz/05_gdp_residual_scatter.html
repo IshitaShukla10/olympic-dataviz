@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Money buys medals -- with steep diminishing returns</title>
+<script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@2/plotly.min.js"></script>
+<style>
+  body { margin:0; font-family:-apple-system,Segoe UI,Roboto,sans-serif; background:#0b0e14; color:#e8ecf1; }
+  header { padding:20px 24px 4px; }
+  h1 { font-size:1.3rem; margin:0 0 4px; }
+  p.sub { margin:0; color:#9aa4b2; font-size:0.95rem; max-width:760px; }
+  #chart { width:100%; height:640px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Money buys medals -- with steep diminishing returns</h1>
+  <p class="sub">GDP vs. Paris 2024 medal count (log-log; source: World Bank NY.GDP.MKTP.CD). Colour marks who over/under-performs their economy's predicted medal count, not just the raw scatter everyone runs on this dataset.</p>
+</header>
+<div id="chart"></div>
+<script>
+const data = [{"x": [437.1463727299424, 239.8994911277424, 1371.171152331155, 640.5914106638834, 395.9260751630058, 335.53333166921914, 102.05047386363636, 141.10937320941437, 338.36845531787577, 1788.886821046813, 3549.9189187775323, 32.22962266919512, 50.81364234867464, 19.8721803696275, 83.3824, 399.64882854650426, 78.78882890686344, 267.6032486552527, 235.7704037349, 501.4275000800585, 132.79362228307096, 28.162630953928502], "y": [4, 3, 2, 3, 3, 2, 2, 2, 1, 5, 6, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1], "text": ["Philippines", "Algeria", "Indonesia", "Argentina", "Egypt", "Chile", "Guatemala", "Morocco", "Pakistan", "Mexico", "India", "Cyprus", "Jordan", "Mongolia", "Panama", "Malaysia", "C\u00f4te d'Ivoire", "Peru", "Qatar", "Singapore", "Slovakia", "Zambia"], "mode": "markers", "type": "scatter", "name": "Under-performs GDP", "marker": {"color": "#fa5252", "size": 10, "line": {"width": 1, "color": "#0b0e14"}}, "hovertemplate": "%{text}<br>GDP $%{x:.0f}B, %{y} medals<extra>%{fullData.name}</extra>"}, {"x": [4456.081016705961, 1580.6947125157142, 593.2677010334082, 485.5133165036304, 545.6294504037351, 2173.6656559372736, 401.5045147187182, 351.0025796296701, 632.2165770751093, 101.58438467278587, 75.18712542673755, 330.8583398716861, 404.1987575379742, 43.205, 68.21678141052277, 516.0341441159503, 382.0545742985291, 509.90149570210326, 811.2291006875663, 261.4211210855721, 377.7816009858731, 514.9449938335775, 163.69792759398237, 884.9404022304088, 118.844826, 287.0800135744972, 238.2063126325277, 48.52959541665326, 19.39576512631275, 49.272882213623, 121.4442793139308, 1108.022373259511, 24.212134631064004, 363.5401562348684, 77.83639696277196, 10.438351483167695, 5.494797540733647, 12.060602008847782, 22.97767786079785, 2.587252076305599], "y": [33, 18, 11, 8, 7, 20, 12, 9, 10, 7, 5, 5, 9, 4, 3, 5, 4, 7, 10, 7, 6, 6, 4, 8, 5, 4, 8, 3, 2, 2, 3, 8, 4, 4, 4, 2, 1, 3, 2, 1], "text": ["Germany", "Spain", "Sweden", "Norway", "Ireland", "Brazil", "IR Iran", "Romania", "Belgium", "Bulgaria", "Serbia", "Czechia", "Denmark", "Bahrain", "Slovenia", "Austria", "Hong Kong, China", "Israel", "Poland", "Kazakhstan", "South Africa", "Thailand", "Ethiopia", "Switzerland", "Ecuador", "Portugal", "Greece", "Tunisia", "Botswana", "Uganda", "Dominican Republic", "T\u00fcrkiye", "Armenia", "Colombia", "Lithuania", "Kosovo", "Fiji", "Tajikistan", "Albania", "Cabo Verde"], "mode": "markers", "type": "scatter", "name": "In line with GDP", "marker": {"color": "#868e96", "size": 10, "line": {"width": 1, "color": "#0b0e14"}}, "hovertemplate": "%{text}<br>GDP $%{x:.0f}B, %{y} medals<extra>%{fullData.name}</extra>"}, {"x": [27360.935, 17794.781986104455, 4212.945159781403, 1723.8272153347064, 3030.9040896078964, 1118.1247498862942, 3340.032380668036, 1712.792854202369, 2254.8512127318045, 253.465703232146, 2140.0855677914515, 90.88914930673126, 212.388906458724, 107.44057583804752, 178.75702138680896, 30.535530479022665, 72.35617647058824, 82.68884271739259, 107.3518, 19.42335536723718, 2.5199259385244663, 0.6539925925925926, 13.98762790883814, 16.539436547294972, 1.320334235588974], "y": [126, 91, 45, 53, 64, 34, 65, 32, 40, 20, 27, 13, 19, 11, 12, 7, 7, 7, 9, 6, 2, 1, 6, 4, 2], "text": ["United States", "China", "Japan", "Australia", "France", "Netherlands", "Great Britain", "Korea", "Italy", "New Zealand", "Canada", "Uzbekistan", "Hungary", "Kenya", "Ukraine", "Georgia", "Azerbaijan", "Croatia", "Cuba", "Jamaica", "Saint Lucia", "Dominica", "Kyrgyzstan", "Republic of Moldova", "Grenada"], "mode": "markers", "type": "scatter", "name": "Over-performs GDP", "marker": {"color": "#40c057", "size": 10, "line": {"width": 1, "color": "#0b0e14"}}, "hovertemplate": "%{text}<br>GDP $%{x:.0f}B, %{y} medals<extra>%{fullData.name}</extra>"}, {"x": [0.6539925925925926, 27360.935], "y": [0.5254050173073588, 39.42337129710722], "mode": "lines", "type": "scatter", "name": "GDP-predicted trend", "line": {"color": "#495057", "dash": "dash"}, "hoverinfo": "skip"}];
+
+Plotly.newPlot('chart', data, {
+  paper_bgcolor: '#0b0e14', plot_bgcolor: '#0b0e14',
+  font: { color: '#e8ecf1', size: 14 },
+  xaxis: { title: 'GDP (current US$, billions)', type: 'log', gridcolor: '#222' },
+  yaxis: { title: 'Paris 2024 total medals', type: 'log', gridcolor: '#222' },
+  legend: { orientation: 'h', y: -0.2 },
+  margin: { t: 20 },
+}, {responsive: true});
+
+</script>
+</body>
+</html>

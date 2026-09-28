@@ -1,0 +1,166 @@
+country,discipline,n
+Australia,Athletics,7
+Australia,Boxing,2
+Australia,Canoe Slalom,3
+Australia,Canoe Sprint,2
+Australia,Cycling BMX Racing,1
+Australia,Cycling Track,5
+Australia,Diving,1
+Australia,Equestrian,1
+Australia,Rowing,1
+Australia,Sailing,2
+Australia,Shooting,1
+Australia,Skateboarding,2
+Australia,Swimming,18
+Brazil,Artistic Gymnastics,4
+Brazil,Athletics,2
+Brazil,Boxing,1
+Brazil,Canoe Sprint,1
+Brazil,Judo,4
+Brazil,Skateboarding,2
+Brazil,Taekwondo,1
+Canada,Athletics,5
+Canada,Boxing,1
+Canada,Canoe Sprint,2
+Canada,Diving,1
+Canada,Fencing,1
+Canada,Judo,1
+Canada,Rowing,1
+Canada,Swimming,8
+Canada,Taekwondo,1
+Canada,Weightlifting,1
+China,Archery,1
+China,Artistic Gymnastics,9
+China,Athletics,4
+China,Badminton,5
+China,Boxing,5
+China,Canoe Sprint,2
+China,Diving,11
+China,Judo,1
+China,Shooting,10
+China,Swimming,12
+China,Table Tennis,6
+China,Taekwondo,2
+China,Weightlifting,5
+China,Wrestling,5
+France,Archery,2
+France,Athletics,1
+France,Boxing,3
+France,Canoe Slalom,3
+France,Cycling BMX Racing,3
+France,Cycling Track,1
+France,Equestrian,2
+France,Fencing,7
+France,Judo,10
+France,Sailing,2
+France,Shooting,1
+France,Swimming,7
+France,Table Tennis,2
+France,Taekwondo,2
+France,Triathlon,2
+Germany,Archery,1
+Germany,Athletics,4
+Germany,Boxing,1
+Germany,Canoe Slalom,2
+Germany,Canoe Sprint,4
+Germany,Cycling Track,2
+Germany,Equestrian,5
+Germany,Judo,1
+Germany,Rowing,2
+Germany,Swimming,2
+Germany,Triathlon,1
+Great Britain,Artistic Gymnastics,2
+Great Britain,Athletics,10
+Great Britain,Boxing,1
+Great Britain,Canoe Slalom,4
+Great Britain,Cycling Track,8
+Great Britain,Diving,5
+Great Britain,Equestrian,5
+Great Britain,Rowing,8
+Great Britain,Sailing,2
+Great Britain,Shooting,2
+Great Britain,Skateboarding,1
+Great Britain,Swimming,5
+Great Britain,Taekwondo,1
+Great Britain,Triathlon,3
+Great Britain,Weightlifting,1
+Hungary,Athletics,1
+Hungary,Canoe Sprint,7
+Hungary,Fencing,3
+Hungary,Shooting,1
+Hungary,Swimming,3
+Hungary,Taekwondo,1
+Italy,Artistic Gymnastics,3
+Italy,Athletics,3
+Italy,Canoe Slalom,1
+Italy,Canoe Sprint,1
+Italy,Cycling Track,3
+Italy,Fencing,5
+Italy,Judo,1
+Italy,Rowing,2
+Italy,Sailing,2
+Italy,Shooting,4
+Italy,Swimming,5
+Italy,Taekwondo,1
+Italy,Weightlifting,1
+Japan,Artistic Gymnastics,4
+Japan,Athletics,1
+Japan,Badminton,2
+Japan,Diving,1
+Japan,Equestrian,1
+Japan,Fencing,5
+Japan,Judo,8
+Japan,Sailing,1
+Japan,Skateboarding,4
+Japan,Swimming,1
+Japan,Table Tennis,2
+Japan,Wrestling,11
+Korea,Archery,7
+Korea,Badminton,2
+Korea,Boxing,1
+Korea,Fencing,3
+Korea,Judo,5
+Korea,Shooting,6
+Korea,Swimming,1
+Korea,Table Tennis,2
+Korea,Taekwondo,3
+Korea,Weightlifting,1
+Netherlands,Athletics,6
+Netherlands,Cycling BMX Racing,1
+Netherlands,Cycling Track,5
+Netherlands,Equestrian,1
+Netherlands,Rowing,8
+Netherlands,Sailing,4
+Netherlands,Swimming,2
+New Zealand,Athletics,2
+New Zealand,Canoe Slalom,1
+New Zealand,Canoe Sprint,3
+New Zealand,Cycling Track,5
+New Zealand,Rowing,4
+New Zealand,Sailing,2
+New Zealand,Triathlon,1
+Spain,Athletics,4
+Spain,Boxing,2
+Spain,Canoe Slalom,1
+Spain,Canoe Sprint,2
+Spain,Judo,1
+Spain,Sailing,1
+United States,Archery,2
+United States,Artistic Gymnastics,9
+United States,Athletics,34
+United States,Boxing,1
+United States,Canoe Slalom,1
+United States,Canoe Sprint,1
+United States,Cycling Track,2
+United States,Diving,1
+United States,Equestrian,1
+United States,Fencing,4
+United States,Rowing,2
+United States,Sailing,1
+United States,Shooting,5
+United States,Skateboarding,3
+United States,Swimming,28
+United States,Taekwondo,1
+United States,Triathlon,1
+United States,Weightlifting,2
+United States,Wrestling,7
